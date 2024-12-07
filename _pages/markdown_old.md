@@ -1,10 +1,10 @@
 ---
-permalink: /guide/
-title: "Markdown"
+permalink: /markdown/
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /md/
-  - /guide.html
+  - /markdown.html
 ---
 
 {% if site.author.googlescholar %}
