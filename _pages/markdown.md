@@ -6,9 +6,9 @@ redirect_from:
   - /md/
   - /markdown.html
 
-# {% if site.author.googlescholar %}
- # <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-# {% endif %}
+#{% if site.author.googlescholar %}
+ #<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+#{% endif %}
 
 <div class="wordwrap">You can also find my articles on <a href="{https://scholar.google.com/citations?user=SgCFU64AAAAJ&hl=en}">my Google Scholar profile</a>.</div>
   
