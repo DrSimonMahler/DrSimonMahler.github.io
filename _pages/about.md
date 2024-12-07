@@ -15,8 +15,10 @@ My research concentrates on the intersection of bio-imaging and optics, with foc
 
 News
 ======
-Our recent ...
+Nov 2024: I’m seeking a new role and would appreciate your support. If you hear of any opportunities or just want to catch up, please connect with me!
+💼 I’m looking for Assistant Professor, Tenure-track and Academic Researcher roles.
+🌎 I’m open to roles in United States, Canada, France, Schengen Area, European Union and more.
 
-For more info
+Disclosure
 ------
 This website was generated using Academic_Pages template in Github. The template can be found at [academicpages.github.io](https://academicpages.github.io). I thank Academic_Pages for the opportuinity of using their template.
