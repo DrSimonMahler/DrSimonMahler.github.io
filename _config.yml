@@ -223,7 +223,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -280,8 +280,8 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: false
-      share: false
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
