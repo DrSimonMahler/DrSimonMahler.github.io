@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Publications"
+permalink: /todelete/
+title: "todelete"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /todelete.html
 
 {% if site.author.googlescholar %}
  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
