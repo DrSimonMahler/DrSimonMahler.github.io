@@ -7,14 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 
-
 {% if site.author.googlescholar %}
  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-
-#<div class="wordwrap">You cane also find my articles on <a href="{https://scholar.google.com/citations?user=SgCFU64AAAAJ&hl=en}">my Google Scholar profile</a>.</div>
   
-## List of Publications
+## List of Publications 
+#### Sorted from most recent to oldest
 28 – S. Mahler, Z. Dong, C. Redhead, M. Bronner, C. Yang. Non-invasive sexing of chicken eggs by combining laser speckle contrast imaging and machine learning. Under preparation (2024).
 
 27 – S. Mahler*, Y. X. Huang*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. Under preparation, Science Advances (2024).
