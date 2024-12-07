@@ -79,10 +79,7 @@ demonstration of an efficient number diagnostic for long 1D ion chains. Physical
 95(1), 013413 (2017).
 
 
-
-
-## Table of Publications per Journal
-### Updated on 6-Dec-2024
+## Table — Publications per Journal
 
 | Journal                            | Impact <br> Factor   | No. of <br> publications|
 | --------                           | ------               | --- |
@@ -98,6 +95,8 @@ demonstration of an efficient number diagnostic for long 1D ion chains. Physical
 | Journal of Optics                  | 2.1                  | 1   |
 | Journal of Physics B               | 1.5                  | 1   |
 | Optics Continuum                   | 1.1                  | 1   |
+
+#### Table updated on 6-Dec-2024
 
 
 
