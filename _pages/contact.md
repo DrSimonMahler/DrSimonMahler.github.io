@@ -7,8 +7,6 @@ redirect_from:
   - /contact.html
 ---
 
-## Contact 
-
 Dr. Simon Mahler
 <br>Address: Caltech, MC 136-93, 1200 E. California Blvd, Pasadena, CA 91125
 <br>Office: Moore Laboratory, Room 229
