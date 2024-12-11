@@ -70,19 +70,14 @@ Davidson. Dynamics of dissipative topological defects in coupled phase oscillato
 3 – S.Mahler, C.Tradonsky, R. Chriki, A. A Friesem, N. Davidson. Coupling of laser arrays with intracavity elements in the
 far-field OSA Optics Continuum 2(6), 2077-2084 (2019). 
 
-2 – R. Chriki, S.Mahler, C.Tradonsky, V.Pal, A.A Friesem, N.
-Davidson. Spatiotemporal supermodes: Rapid
-reduction of spatial coherence in highly multimode lasers. Physical Review A 98(2), 023812 (2018).
+2 – R. Chriki, S.Mahler, C.Tradonsky, V.Pal, A.A Friesem, N. Davidson. Spatiotemporal supermodes: Rapid reduction of spatial coherence in highly multimode lasers. Physical Review A 98(2), 023812 (2018).
 
-1 – M. R.Kamsap, C. Champenois, J. Pedregosa-Gutierrez, S. Mahler,
-M.Houssin, M.Knoop. Experimental
-demonstration of an efficient number diagnostic for long 1D ion chains. Physical Review A
-95(1), 013413 (2017).
+1 – M. R.Kamsap, C. Champenois, J. Pedregosa-Gutierrez, S. Mahler, M.Houssin, M.Knoop. Experimental demonstration of an efficient number diagnostic for long 1D ion chains. Physical Review A 95(1), 013413 (2017).
 
 
 ## Table — Publications per Journal
 
-| Journal                            | Impact <br> Factor   | No. of <br> publications|
+| Journal                            | Impact <br> Factor (2024)   | No. of <br> publications|
 | --------                           | ------               | --- |
 | Physical Review Letters            | 9.0                  | 2   |
 | Optica                             | 8.4                  | 1   |
