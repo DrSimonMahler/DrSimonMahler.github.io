@@ -15,9 +15,9 @@ redirect_from:
 #### Sorted from most recent to oldest
 28 – S. Mahler, Z. Dong, C. Redhead, M. Bronner, C. Yang. Non-invasive sexing of chicken eggs by combining laser speckle contrast imaging and machine learning. Under preparation (2024).
 
-27 – S. Mahler*, Y. X. Huang*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. Under preparation, Science Advances (2024).
+27 – S. Mahler*, Y. X. Huang*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. Under preparation  (2024).
 
-26 – S. Mahler*, Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. Under peer-review, Neurophotonics (2024).
+26 – S. Mahler*, Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. Second round of peer-review, Neurophotonics (2024).
 
 25 – C. Readhead*, S. Mahler*, Z. Dong, X. Chen, C. Yang, M. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. Second round of peer-review, Developmental Biology (2024).
 
