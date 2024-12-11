@@ -10,7 +10,7 @@ redirect_from:
 Dr. Simon Mahler
 <br> <img src="../images/building.png" alt="Building" style="width:25px;height:25px;"> Office: Moore Laboratory, Room 229
 <br> <img src="../images/address.png" alt="Address" style="width:25px;height:25px;"> Address: Caltech, MC 136-93, 1200 E. California Blvd, Pasadena, CA 91125
-<br> <img src="../images/email.png" alt="Email" style="width:25px;height:25px;"> Emails: mahler@caltech.edu & sim.mahler@gmail.com
+<br> <img src="../images/email.png" alt="Email" style="width:25px;height:25px;"> Emails: <a href="mailto:{mahler@caltech.edu}" target="_blank">mahler@caltech.edu</a> & <a href="mailto:{sim.mahler@gmail.com}" target="_blank">sim.mahler@gmail.com</a>
 <br> <img src="../images/phone.png" alt="PhoneUS" style="width:25px;height:25px;"> Phones:  USA:+1 626-487-7134  –––  FR: +33 6-98-45-00-99
 
 <br>
