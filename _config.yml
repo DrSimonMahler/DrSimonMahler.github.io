@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Headshot_Simon.png"
+  avatar           : "Headshot_Simon_Mahler.png"
   name             : "Simon Mahler, PhD"
   pronouns         : # example: "all"  
   bio              : "Postdoctoral Research Associate"
