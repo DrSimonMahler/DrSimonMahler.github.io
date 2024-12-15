@@ -19,7 +19,7 @@ redirect_from:
 
 26 – S. Mahler*, Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. Second round of peer-review, Neurophotonics (2024).
 
-25 – C. Readhead*, S. Mahler*, Z. Dong, X. Chen, C. Yang, M. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. Second round of peer-review, Developmental Biology (2024).
+25 – C. Readhead*, S. Mahler*, Z. Dong, X. Chen, C. Yang, M. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. In press, Developmental Biology (2024).
 
 24 – Q. Liu, X. Fu, Z. Zhang, A. Forbes, Nir Davidson, Simon Mahler, Asher Friesem et al. Roadmap on Structured Light Lasers. Under peer-review, Journal of Optics (2024).
 
@@ -73,7 +73,7 @@ far-field OSA Optics Continuum 2(6), 2077-2084 (2019).
 2 – R. Chriki, S.Mahler, C.Tradonsky, V.Pal, A.A Friesem, N. Davidson. Spatiotemporal supermodes: Rapid reduction of spatial coherence in highly multimode lasers. Physical Review A 98(2), 023812 (2018).
 
 1 – M. R.Kamsap, C. Champenois, J. Pedregosa-Gutierrez, S. Mahler, M.Houssin, M.Knoop. Experimental demonstration of an efficient number diagnostic for long 1D ion chains. Physical Review A 95(1), 013413 (2017).
-
+<a>(article link)</a>
 
 ## Table — Publications per Journal
 
@@ -88,6 +88,7 @@ far-field OSA Optics Continuum 2(6), 2077-2084 (2019).
 | Journal of Biomedical Optics       | 3.0                  | 1   |
 | Biomedical Optics Express          | 3.0                  | 4   |
 | Optics Express                     | 3.2                  | 2   |
+| Developmental Biology              | 2.5                  | 1   |
 | Journal of Optics                  | 2.1                  | 1   |
 | Journal of Physics B               | 1.5                  | 1   |
 | Optics Continuum                   | 1.1                  | 1   |
