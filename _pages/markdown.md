@@ -88,7 +88,7 @@ redirect_from:
 | Journal of Physics B               | 1.5                  | 1   |
 | Optics Continuum                   | 1.1                  | 1   |
 
-#### Table updated on 15-Dec-2024
+#### Table updated on 02-Jan-2025
 
 
 
