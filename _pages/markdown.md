@@ -17,7 +17,7 @@ redirect_from:
 
 27 – <b>S. Mahler</b>* , Y. X. Huang*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. Under preparation  (2024).
 
-26 – <b>S. Mahler</b>* , Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. Second round of peer-review, Neurophotonics (2024).
+26 – <b>S. Mahler</b>* , Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. In press, Neurophotonics (2024).
 
 25 – C. Readhead*, <b>S. Mahler</b>*, Z. Dong, X. Chen, C. Yang, M. E. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. Developmental Biology 519, 46-54 (2025). <a href="https://doi.org/10.1016/j.ydbio.2024.12.005" target="_blank">(article link)</a>
 
@@ -77,6 +77,7 @@ redirect_from:
 | Optica                             | 8.4                  | 1   |
 | Nanophotonics                      | 7.1                  | 1   |
 | The Journal of Pathology           | 5.6                  | 1   |
+| Neurophotonics                     | 5.3                  | 1   |
 | Physical Review A                  | 4.0                  | 3   |
 | Physical Review Research           | 3.5                  | 2   |
 | Journal of Biomedical Optics       | 3.0                  | 1   |
