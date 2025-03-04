@@ -17,8 +17,8 @@ redirect_from:
 
 27 – <b>S. Mahler</b>* , Y. X. Huang*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. Under preparation  (2024).
 
-26 – <b>S. Mahler</b>* , Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. In press, Neurophotonics (2024).
-
+26 – <b>S. Mahler</b>* , Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. Neurophotonics 12(1), 015003 (2025). <a href="https://doi.org/10.1117/1.NPh.12.1.015003" target="_blank">(article link)</a>
+                            
 25 – C. Readhead*, <b>S. Mahler</b>*, Z. Dong, X. Chen, C. Yang, M. E. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. Developmental Biology 519, 46-54 (2025). <a href="https://doi.org/10.1016/j.ydbio.2024.12.005" target="_blank">(article link)</a>
 
 24 – Q. Liu, X. Fu, Z. Zhang, A. Forbes, Nir Davidson, Simon Mahler, Asher Friesem et al. Roadmap on Structured Light Lasers. Under peer-review, Journal of Optics (2024).
