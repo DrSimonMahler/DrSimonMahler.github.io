@@ -12,11 +12,11 @@ If you are interested in further details of any of my work or just want to conne
 
 News
 ======
-March 2025: I am happy to share that I will be joining in Sep-25 the <a href="https://www.stevens.edu/school-engineering-science/departments/biomedical-engineering" target="_blank">Department of Biomedical Engineering</a>, Stevens Institute of Technology (New Jersey) as a tenure-track Assistant Professor 🎉! My future lab will be exploring bio-imaging and optics (biophotonics)—with a focus on laser speckle imaging for blood flow in living tissues, advancing applications in neurological disease detection and cardiac embryonic development. If you're curious about my future work, interested in joining the lab, want to collaborate, or just want to connect, feel free to reach out!🚀
+<u>March 2025</u>: I am happy to share that I will be joining in Sep-25 the <a href="https://www.stevens.edu/school-engineering-science/departments/biomedical-engineering" target="_blank">Department of Biomedical Engineering</a>, Stevens Institute of Technology (New Jersey) as a tenure-track Assistant Professor 🎉! My future lab will be exploring bio-imaging and optics (biophotonics)—with a focus on laser speckle imaging for blood flow in living tissues, advancing applications in neurological disease detection and cardiac embryonic development. If you're curious about my future work, interested in joining the lab, want to collaborate, or just want to connect, feel free to reach out!🚀
 
-February 2025: I am happy to share our recent publication in <a href="https://doi.org/10.1117/1.NPh.12.1.015003" target="_blank">NeuroPhotonics</a> about a portable six-channel laser speckle system for measuring brain blood flow and volume simultaneously. Don't hesitate to reach out to me if you want to connect, have a question, or have a comment! 
+<u>February 2025</u>: I am happy to share our recent publication in <a href="https://doi.org/10.1117/1.NPh.12.1.015003" target="_blank">NeuroPhotonics</a> about a portable six-channel laser speckle system for measuring brain blood flow and volume simultaneously. Don't hesitate to reach out to me if you want to connect, have a question, or have a comment! 
  
-November 2024: I’m seeking a new role. If you hear any opportunities or want to catch up, please connect with me!
+<u>November 2024</u>: I’m seeking a new role. If you hear any opportunities or want to catch up, please connect with me!
 <br>💼 I’m looking for Assistant Professor, Tenure-track and Academic Researcher roles.
 <br>🌎 I’m open to roles in United States, Canada, France, Schengen Area, European Union and more.
 
