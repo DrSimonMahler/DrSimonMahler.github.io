@@ -13,9 +13,9 @@ redirect_from:
   
 ## List of Publications 
 #### Sorted from most recent to oldest
-28 – <b>S. Mahler</b>, Z. Dong, C. Redhead, M. Bronner, C. Yang. Non-invasive sexing of chicken eggs by combining laser speckle contrast imaging and machine learning. Under preparation (2024).
+28 – <b>S. Mahler</b>, Z. Dong, C. Redhead, M. Bronner, C. Yang. Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks. Under preparation (2024).
 
-27 – <b>S. Mahler</b>* , Y. X. Huang*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. Under preparation  (2024).
+27 – Y. X. Huang*, <b>S. Mahler</b>*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. arXiv:2501.19005 Under review (2024).  <a href="https://doi.org/10.48550/arXiv.2501.19005" target="_blank">(article link)</a>
 
 26 – <b>S. Mahler</b>* , Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. Neurophotonics 12(1), 015003 (2025). <a href="https://doi.org/10.1117/1.NPh.12.1.015003" target="_blank">(article link)</a>
                             
