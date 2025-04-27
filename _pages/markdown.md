@@ -21,7 +21,7 @@ redirect_from:
 
 <br> <img src="../images/25_nifedipine_paper_image.png" alt="25_nifedipine_paper" style="width:125px;height:125px;" align="left"> <br> 25 – C. Readhead*, <b>S. Mahler</b>*, Z. Dong, X. Chen, C. Yang, M. E. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. Developmental Biology 519, 46-54 (2025). <a href="https://doi.org/10.1016/j.ydbio.2024.12.005" target="_blank">(article link)</a> <br><br>
 
-24 – Q. Liu, X. Fu, Z. Zhang, A. Forbes, Nir Davidson, Simon Mahler, Asher Friesem et al. Roadmap on Structured Light Lasers. Under peer-review, Journal of Optics (2024).
+24 – Q. Liu, X. Fu, Z. Zhang, A. Forbes, N. Davidson, S. Mahler, A. Friesem et al. Roadmap on Structured Light Lasers. Under peer-review, Journal of Optics (2024).
 
 23 – [Editors' Pick + News Release] Y. X. Huang*, <b>S. Mahler</b>*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, P. Lyden, J. Russin, C. Liu, C. Yang.  Correlating stroke risk with non-invasive cerebrovascular perfusion dynamics using a portable speckle contrast optical spectroscopy laser device.  Biomedical Optics Express 15, 6083-6097 (2024). <a href="https://doi.org/10.1364/BOE.534796" target="_blank">(article link)</a>
 
