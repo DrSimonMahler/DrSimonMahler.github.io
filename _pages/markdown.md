@@ -13,11 +13,12 @@ redirect_from:
   
 ## List of Publications 
 #### Sorted from most recent to oldest
-<br> <img src="../images/28_sexing_eggs_paper.png" alt="28_sexing_eggs_paper" style="width:125px;height:125px;" align="left"> <br> 28 – <b>S. Mahler</b>, Z. Dong, C. Redhead, M. Bronner, C. Yang. Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks. Under review (2024). <br><br>
 
-<br> <img src="../images/28_sexing_eggs_paper.png" alt="28_sexing_eggs_paper" style="width:125px;height:125px;" align="left"> <br> 28 – <b>Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks.</b> </br> <b>S. Mahler</b>, <span style="color: #A4907C;"> Z. Dong, C. Redhead, M. Bronner, C. Yang. </span> </br>  Under review (2024). <br><br>
+<img src="../images/28_sexing_eggs_paper.png" alt="28_sexing_eggs_paper" style="width:125px;height:125px;" align="left"> <br> 28 – <b>Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks.</b> <br> <b>S. Mahler</b>, <span style="color: #A4907C;"> Z. Dong, C. Redhead, M. Bronner, C. Yang. </span> <br>
+<font size="3" style="font-family: 'Font', Calibri;"> Under review (2024). </font> <br>
 
-
+<img src="../images/28_sexing_eggs_paper.png" alt="28_sexing_eggs_paper" style="width:125px;height:125px;" align="left"> <br> 28 – <b>Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks.</b> <br> <b>S. Mahler</b>, <span style="color: #A4907C;"> Z. Dong, C. Redhead, M. Bronner, C. Yang. </span> <br>
+<font size="3" style="font-family: 'Font', Calibri;"> Under review (2024). </font> <br>
 
 <br> <img src="../images/27_temporal_occlusion_paper.png" alt="27_temporal_occlusion_paper" style="width:125px;height:100px;" align="left"> 27 – Y. X. Huang*, <b>S. Mahler</b>*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. arXiv:2501.19005 Under review (2024).  <a href="https://doi.org/10.48550/arXiv.2501.19005" target="_blank">(article link)</a><br><br>
 
