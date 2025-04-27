@@ -19,7 +19,7 @@ redirect_from:
 
 26 – <b>S. Mahler</b>* , Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. Neurophotonics 12(1), 015003 (2025). <a href="https://doi.org/10.1117/1.NPh.12.1.015003" target="_blank">(article link)</a>
 
-<br> <img src="../images/25_nifedipine_paper_image.png" alt="25_nifedipine_paper" style="width:100px;height:125px; float: left; margin: 0 0 0 15px;"> 25 – C. Readhead*, <b>S. Mahler</b>*, Z. Dong, X. Chen, C. Yang, M. E. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. Developmental Biology 519, 46-54 (2025). <a href="https://doi.org/10.1016/j.ydbio.2024.12.005" target="_blank">(article link)</a>
+<br> <img src="../images/25_nifedipine_paper_image.png" alt="25_nifedipine_paper" style="width:100px;height:125px;" align="left"> <br> 25 – C. Readhead*, <b>S. Mahler</b>*, Z. Dong, X. Chen, C. Yang, M. E. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. Developmental Biology 519, 46-54 (2025). <a href="https://doi.org/10.1016/j.ydbio.2024.12.005" target="_blank">(article link)</a> <br><br>
 
 24 – Q. Liu, X. Fu, Z. Zhang, A. Forbes, Nir Davidson, Simon Mahler, Asher Friesem et al. Roadmap on Structured Light Lasers. Under peer-review, Journal of Optics (2024).
 
