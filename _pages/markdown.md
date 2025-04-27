@@ -76,6 +76,7 @@ redirect_from:
 | Physical Review Letters            | 9.0                  | 2   |
 | Optica                             | 8.4                  | 1   |
 | Nanophotonics                      | 7.1                  | 1   |
+| APL Bioengineering                 | 6.6                  | 1   |
 | The Journal of Pathology           | 5.6                  | 1   |
 | Neurophotonics                     | 5.3                  | 1   |
 | Physical Review A                  | 4.0                  | 3   |
