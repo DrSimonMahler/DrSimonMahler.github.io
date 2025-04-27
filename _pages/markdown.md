@@ -13,13 +13,13 @@ redirect_from:
   
 ## List of Publications 
 #### Sorted from most recent to oldest
-<br> <img src="../images/28_sexing_eggs_paper" alt="28_sexing_eggs_paper" style="width:100px;height:125px;" align="left"> <br> 28 – <b>S. Mahler</b>, Z. Dong, C. Redhead, M. Bronner, C. Yang. Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks. Under review (2024). <br><br>
+<br> <img src="../images/28_sexing_eggs_paper.png" alt="28_sexing_eggs_paper" style="width:125px;height:125px;" align="left"> <br> 28 – <b>S. Mahler</b>, Z. Dong, C. Redhead, M. Bronner, C. Yang. Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks. Under review (2024). <br><br>
 
-<br> <img src="../images/27_temporal_occlusion_paper" alt="27_temporal_occlusion_paper" style="width:100px;height:125px;" align="left"> <br>27 – Y. X. Huang*, <b>S. Mahler</b>*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. arXiv:2501.19005 Under review (2024).  <a href="https://doi.org/10.48550/arXiv.2501.19005" target="_blank">(article link)</a><br><br>
+<br> <img src="../images/27_temporal_occlusion_paper.png" alt="27_temporal_occlusion_paper" style="width:125px;height:100px;" align="left"> <br>27 – Y. X. Huang*, <b>S. Mahler</b>*, M. Dickson*, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery. arXiv:2501.19005 Under review (2024).  <a href="https://doi.org/10.48550/arXiv.2501.19005" target="_blank">(article link)</a><br><br>
 
-<br> <img src="../images/26_scos_multi_channel_paper.png" alt="26_scos_multi_channel_paper" style="width:100px;height:125px;" align="left"> <br>26 – <b>S. Mahler</b>* , Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. Neurophotonics 12(1), 015003 (2025). <a href="https://doi.org/10.1117/1.NPh.12.1.015003" target="_blank">(article link)</a><br><br>
+<br> <img src="../images/26_scos_multi_channel_paper.png" alt="26_scos_multi_channel_paper" style="width:125px;height:100px;" align="left"> <br>26 – <b>S. Mahler</b>* , Y. X. Huang*, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang Portable Six-Channel Laser Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection. Neurophotonics 12(1), 015003 (2025). <a href="https://doi.org/10.1117/1.NPh.12.1.015003" target="_blank">(article link)</a><br><br>
 
-<br> <img src="../images/25_nifedipine_paper_image.png" alt="25_nifedipine_paper" style="width:100px;height:125px;" align="left"> <br> 25 – C. Readhead*, <b>S. Mahler</b>*, Z. Dong, X. Chen, C. Yang, M. E. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. Developmental Biology 519, 46-54 (2025). <a href="https://doi.org/10.1016/j.ydbio.2024.12.005" target="_blank">(article link)</a> <br><br>
+<br> <img src="../images/25_nifedipine_paper_image.png" alt="25_nifedipine_paper" style="width:125px;height:125px;" align="left"> <br> 25 – C. Readhead*, <b>S. Mahler</b>*, Z. Dong, X. Chen, C. Yang, M. E. Bronner.  Automated non-invasive laser speckle imaging of the chick heart rate and extraembryonic blood vessels and their response to nifedipine and amlodipine drugs. Developmental Biology 519, 46-54 (2025). <a href="https://doi.org/10.1016/j.ydbio.2024.12.005" target="_blank">(article link)</a> <br><br>
 
 24 – Q. Liu, X. Fu, Z. Zhang, A. Forbes, Nir Davidson, Simon Mahler, Asher Friesem et al. Roadmap on Structured Light Lasers. Under peer-review, Journal of Optics (2024).
 
@@ -89,7 +89,7 @@ redirect_from:
 | Journal of Physics B               | 1.5                  | 1   |
 | Optics Continuum                   | 1.1                  | 1   |
 
-#### Table updated on 02-Jan-2025
+#### Table updated on 26-April-2025
 
 
 
