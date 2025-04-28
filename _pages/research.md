@@ -16,10 +16,10 @@ I designed and tested advanced optical devices specifically tailored for measuri
 #### Chicken egg's blood vessel imaging 
 
 <video width="420" controls autoplay muted loop>
-        <source src="../egg_video.mp4" type="video/mp4">
+        <source src="../images/egg_video.mp4" type="video/mp4">
 </video>
 
-As part of my exploration into biomedical imaging, I adapted optical techniques to visualize the vascular networks within developing chicken embryos. Using high-resolution laser speckle contrast imaging (LSCI), I was able to non-invasively monitor the dynamic blood flow through vessels as small as 100 µm in real-time.
+As part of my exploration into biomedical imaging, I adapted optical techniques to visualize the vascular networks of developing chicken embryos, as shown in the video above. Using high-resolution laser speckle contrast imaging (LSCI), we were able to non-invasively monitor the dynamic blood flow through vessels as small as 100 µm in near real-time. We are now applying LSCI-based vascular imaging to a range of biological application including early sexing of chick embryos, predicting embryo survival rates, investigating the effects of antihypthensive drugs on vascular development, monitoring heart formation, and more.  
 
 #### Multi-modal degenerate laser cavity imaging   
 I investigated the use of a multi-modal degenerate laser cavity as a novel imaging platform capable of adapting to different imaging  modalities. By controlling the spatial modes within the cavity, I demonstrated ways to enhance resolution, suppress noise, and even perform imaging through scattering media. This flexible laser system opened up new possibilities for highly efficient, tunable optical imaging, combining the benefits of traditional microscopy with the unique properties of complex laser cavities.
