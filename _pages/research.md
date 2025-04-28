@@ -14,6 +14,11 @@ In my research on Speckle Contrast Optical Spectroscopy (SCOS), I developed and 
 I designed and tested advanced optical devices specifically tailored for measuring cerebral blood flow in both research and clinical environments. My work involved creating compact, wearable devices that utilize near-infrared light to penetrate the scalp and skull, allowing real-time monitoring of brain perfusion. I am particularly interested in suppressing superficial artifacts, ensuring that the signals we capture reflected true cortical blood flow changes, which is critical for applications like stroke monitoring or neurocritical care.
 
 #### Chicken egg's blood vessel imaging 
+
+<video width="420" controls autoplay muted loop>
+        <source src="../egg_video.mp4" type="video/mp4">
+</video>
+
 As part of my exploration into biomedical imaging, I adapted optical techniques to visualize the vascular networks within developing chicken embryos. Using high-resolution laser speckle contrast imaging (LSCI), I was able to non-invasively monitor the dynamic blood flow through vessels as small as 100 µm in real-time.
 
 #### Multi-modal degenerate laser cavity imaging   
