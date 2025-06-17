@@ -93,7 +93,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
 | Journal of Physics B               | 1.5                  | 1   |
 | Optics Continuum                   | 1.1                  | 1   |
 
-#### Table updated on 27-April-2025
+#### Table updated on 16-June-2025
 
 
 
