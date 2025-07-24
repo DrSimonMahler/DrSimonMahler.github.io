@@ -12,7 +12,7 @@ redirect_from:
 {% endif %}
 ## List of Publications 
 #### Sorted from most recent to oldest
-<img src="../images/29_optimization_CBF_algo.png" alt="29_optimization_CBF_algo" style="width:135px;height:135px;" align="left"><font size="4"> 29 – <b>Optimized cerebral blood flow measurement in speckle contrast optical spectroscopy via refinement of noise calibration.</b></font> <br><font size="3"><span style="color: #8f8a85;"> N. Liu, Y.X. Huang,</span> S. Mahler, <span style="color: #8f8a85;">C. Yang. </span> <br> <font size="3" style="font-family: 'Font', Calibri;"> arXiv:2506.15843 Under review (2025). <a href="https://arxiv.org/abs/2506.15843" target="_blank">(article link)</a></font> <br><br>
+<img src="../images/29_optimization_CBF_algo.png" alt="29_optimization_CBF_algo" style="width:135px;height:135px;" align="left"><font size="4"> 29 – <b>Optimized cerebral blood flow measurement in speckle contrast optical spectroscopy via refinement of noise calibration.</b></font> <br><font size="3"><span style="color: #8f8a85;"> N. Liu, Y.X. Huang,</span> S. Mahler, <span style="color: #8f8a85;">C. Yang. </span> <br> <font size="3" style="font-family: 'Font', Calibri;"> In press, Optics Letters (2025) <a href="https://arxiv.org/abs/2506.15843" target="_blank">(article link)</a></font> <br><br>
 
 <img src="../images/28_sexing_eggs_paper.png" alt="28_sexing_eggs_paper" style="width:135px;height:135px;" align="left"><font size="4"> 28 – <b>Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks.</b></font> <br><font size="3"> S. Mahler, <span style="color: #8f8a85;"> Z. Dong, C. Redhead, M. Bronner, C. Yang. </span> <br> <font size="3" style="font-family: 'Font', Calibri;"> bioRXiv:2025.04.17.649355 Under review (2025). <a href="https://www.biorxiv.org/content/10.1101/2025.04.17.649355v1" target="_blank">(article link)</a> </font> <br><br>
 
@@ -41,7 +41,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
 
 <img src="../images/17_percolation_paper.png" alt="17_percolation_paper" style="width:135px;height:135px;" align="left"><font size="4">  17 – <b> Percolation with coupled lasers: effect of non-linearities on the phase transition. </b> <br><font size="3"> S. Mahler, <span style="color: #8f8a85;">  M. A. Rmilah, A. A. Friesem, N. Davidson. </span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> Under preparation, (2024). <a href="https://doi.org/10.1364/OE.499473" target="_blank">(article link)</a> </font> <br><br><br>
 
-<img src="../images/16_AGF_lasers_paper.png" alt="16_AGF_lasers_paper" style="width:135px;height:135px;" align="left"><font size="4"> <br> 16 – <b> Programmable all optical spin simulator with artificial gauge fields. </b> <br><font size="3"> S. Mahler*, <span style="color: #8f8a85;"> E. Bernstein*, S. Gadasi, G. Arwas, A. A. Friesem, N. Davidson. </span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> Second round of peer-review, Physical Review Letters (2024). <a href="https://arxiv.org/abs/2408.13865" target="_blank">(article link)</a> <br><br>
+<img src="../images/16_AGF_lasers_paper.png" alt="16_AGF_lasers_paper" style="width:135px;height:135px;" align="left"><font size="4"> <br> 16 – <b> Programmable all optical spin simulator with artificial gauge fields. </b> <br><font size="3"> S. Mahler*, <span style="color: #8f8a85;"> E. Bernstein*, S. Gadasi, G. Arwas, A. A. Friesem, N. Davidson. </span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> In press, Physical Review Letters (2025). <a href="https://doi.org/10.1103/chxf-fq9v" target="_blank">(article link)</a> <br><br>
 
 <img src="../images/15_OPN_complex_light_paper.png" alt="15_OPN_complex_light_paper" style="width:135px;height:135px;" align="left"><font size="4"> <br> 15 – <b>Complex-Light Lasers.</b><br><font size="3"> <span style="color: #8f8a85;">N. Davidson,</span> S. Mahler, <span style="color: #8f8a85;"> A. A. Friesem, A. Forbes.</span> </font><br><font size="3" style="font-family: 'Font', Calibri;">Optics and Photonics News May 2022, 26–33 (2022). <a href="https://doi.org/10.1364/OPN.33.5.000026" target="_blank">(article link)</a></font><br><br> 
 
@@ -77,13 +77,14 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
 
 | Journal                            | Impact <br> Factor (2024)   | No. of <br> publications|
 | --------                           | ------               | --- |
-| Physical Review Letters            | 9.0                  | 2   |
+| Physical Review Letters            | 9.0                  | 3   |
 | Optica                             | 8.4                  | 1   |
 | Nanophotonics                      | 7.1                  | 1   |
 | APL Bioengineering                 | 6.6                  | 1   |
 | The Journal of Pathology           | 5.6                  | 1   |
 | Neurophotonics                     | 5.3                  | 1   |
 | Physical Review A                  | 4.0                  | 3   |
+| Optics Letters                     | 3.7                  | 1   |
 | Physical Review Research           | 3.5                  | 2   |
 | Journal of Biomedical Optics       | 3.0                  | 1   |
 | Biomedical Optics Express          | 3.0                  | 4   |
@@ -92,7 +93,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
 | Journal of Optics                  | 2.1                  | 1   |
 | Journal of Physics B               | 1.5                  | 1   |
 | Optics Continuum                   | 1.1                  | 1   |
-
+| Total                              |                      | 25   |
 #### Table updated on 16-June-2025
 
 
