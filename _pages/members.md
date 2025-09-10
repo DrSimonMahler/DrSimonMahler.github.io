@@ -7,8 +7,13 @@ redirect_from:
   - /members.html
 ---
 
+.roundrect {
+border-radius: 15px;
+}
+
+
 ## Principal Investigator
-<img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" style="width:135px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b><br>
+<img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b><br>
   <font size="4"> Assistant Professor<br></font>
   <font size="3"> Department of Biomedical Engineering<br></font>
   <font size="3"> Office: McLean Hall, Room 302<br></font>
