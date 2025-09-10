@@ -16,7 +16,7 @@ redirect_from:
 
 <img src="../images/28_sexing_eggs_paper.png" alt="28_sexing_eggs_paper" style="width:135px;height:135px;" align="left"><font size="4"> 28 – <b>Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks.</b></font> <br><font size="3"> S. Mahler, <span style="color: #8f8a85;"> Z. Dong, C. Redhead, M. Bronner, C. Yang. </span> <br> <font size="3" style="font-family: 'Font', Calibri;"> bioRXiv:2025.04.17.649355 Under review (2025). <a href="https://www.biorxiv.org/content/10.1101/2025.04.17.649355v1" target="_blank">(article link)</a> </font> <br><br>
 
-<img src="../images/27_temporal_occlusion_paper.png" alt="27_temporal_occlusion_paper" style="width:135px;height:135px;" align="left"><font size="4">  27 – <b>Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery.</b></font> <font size="3"> <span style="color: #8f8a85;"> Y. X. Huang*,</span> S. Mahler, <span style="color: #8f8a85;"> M. Dickson, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang.</span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> arXiv:2501.19005 Under review (2025). <a href="https://doi.org/10.48550/arXiv.2501.19005" target="_blank">(article link)</a> </font> <br><br>
+<img src="../images/27_temporal_occlusion_paper.png" alt="27_temporal_occlusion_paper" style="width:135px;height:135px;" align="left"><font size="4">  27 – <b>Assessing Scalp and Brain Sensitivity in Blood Flow Measurements via Occlusion of the Temporal Artery.</b></font> <font size="3"> <span style="color: #8f8a85;"> Y. X. Huang*,</span> S. Mahler, <span style="color: #8f8a85;"> M. Dickson, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang.</span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> In production, APL BioEngineering (2025). <a href="https://doi.org/10.48550/arXiv.2501.19005" target="_blank">(article link)</a> </font> <br><br>
 
 <img src="../images/26_scos_multi_channel_paper.png" alt="26_scos_multi_channel_paper" style="width:135px;height:135px;" align="left"><font size="4">  26 – <b>Portable Six-Channel Laser 
 Speckle System for Cerebral Blood Flow and Volume Measurements with Potential Application in Traumatic Brain Injury Detection.</b></font> <font size="3"> S. Mahler, <span style="color: #8f8a85;"> Y. X. Huang, M. Ismagilov, D.A. Chou, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang.</span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> Neurophotonics 12(1), 015003 (2025). <a href="https://doi.org/10.1117/1.NPh.12.1.015003" target="_blank">(article link)</a> </font> <br><br>
@@ -95,7 +95,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
 | Optics Continuum                   | 1.1                  | 1   |
 | Total                              |  --                  | 25   |
 
-#### Table updated on 16-June-2025
+#### Table updated on 10-September-2025
 
 
 
