@@ -19,20 +19,22 @@ border-radius: 15px;
   <font size="4"> Assistant Professor<br></font>
   <font size="3"> Department of Biomedical Engineering<br></font>
   <font size="3"> Office: McLean Hall, Room 302<br></font>
-  <font size="3"> Email: [smahler@stevens.edu](mailto:smahler@stevens.edu)</font><br><br>
-  
+  <font size="3"> Email: <a href="mailto:smahler@stevens.edu" target="_blank">smahler@stevens.edu</a></font><br><br>
+
+
+
   ## Graduate Students
 
 <img src="../images/Matthew_Fernandes.png" alt="picture_Matthew_Fernandes" style="width:135px;height:135px;" align="left"><font size="4"><b>Matthew Fernandes</b><br> 
   First-Year PhD Student<br> 
   Labs: McLean Hall 304 & 305<br>
-  <font size="3"> Email: [mfernand1@stevens.edu](mailto:mfernand1@stevens.edu)</font><br><br>
+  <font size="3"> Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a></font><br><br>
 
   <br><img src="../images/Zijia_Jin.png" alt="picture_Zijia_Jin" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Zijia Jin</b><br> 
   First-Year PhD Student<br> 
   Labs: McLean Hall 304 & 305<br>
-  <font size="3"> Email: [zjin27@stevens.edu](mailto:zjin27@stevens.edu)</font><br><br>
+  <font size="3"> Email: <a href="mailto:zjin27@stevens.edu" target="_blank">zjin27@stevens.edu</a></font><br><br>
 
 ## Undergraduate Students
    
