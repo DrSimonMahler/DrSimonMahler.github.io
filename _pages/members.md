@@ -6,20 +6,18 @@ redirect_from:
   - /md/
   - /members.html
 ---
-
 <style>
 .roundrect {
 border-radius: 15px;
   margin-right: 10px;  
 }
 </style>
-
 ## Principal Investigator
 <img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b><br>
   <font size="4"> Assistant Professor<br></font>
   Department of Biomedical Engineering<br>
   Office: McLean Hall, Room 302<br>
-  Email: <a href="mailto:smahler@stevens.edu" target="_blank">smahler@stevens.edu</a></font><br><br>
+  Email: <a href="mailto:smahler@stevens.edu" target="_blank">smahler@stevens.edu</a><br><br>
 
 ## Graduate Students
 
