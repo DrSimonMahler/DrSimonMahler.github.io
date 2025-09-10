@@ -10,6 +10,7 @@ redirect_from:
 <style>
 .roundrect {
 border-radius: 15px;
+  margin-right: 10px;  
 }
 </style>
 
