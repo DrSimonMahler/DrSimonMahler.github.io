@@ -25,7 +25,7 @@ border-radius: 15px;
 
   ## Graduate Students
 
-<img src="../images/Matthew_Fernandes.png" alt="picture_Matthew_Fernandes" style="width:135px;height:135px;" align="left"><font size="4"><b>Matthew Fernandes</b><br> 
+<img src="../images/Matthew_Fernandes.png" alt="picture_Matthew_Fernandes" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Matthew Fernandes</b><br> 
   First-Year PhD Student<br> 
   Labs: McLean Hall 304 & 305<br>
   <font size="3"> Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a></font><br><br>
@@ -41,7 +41,7 @@ border-radius: 15px;
     TBD <br>
 
 ## Moral Support 
-  <img src="../images/Tillie.png" alt="Tillie" style="width:135px;height:135px;" align="left">
+  <img src="../images/Tillie.png" alt="Tillie" class="roundrect" style="width:135px;height:135px;" align="left">
   <b>Tillie Stella Stevens</b><br> 
   <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">New Campus Pup!</a><br>
   Location: walking around campus <br>
