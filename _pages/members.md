@@ -37,7 +37,7 @@ redirect_from:
 
 ## Moral Support 
 
-  <img src="../images/Nehmo.png" alt="Nehmo_picture" style="width:135px;height:135px;" align="left"><font size="4"><br> 
+  <img src="../images/Tillie.png" alt="Tillie" style="width:135px;height:135px;" align="left"><font size="4"><br> 
   <b><a href=“https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup”>Tillie Stella Stevens</a></b><br> 
   Location: around campus <br>
   <a href=“https://www.instagram.com/followstevens/?hl=en”>Instagram page</a>
