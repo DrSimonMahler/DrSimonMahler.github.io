@@ -30,6 +30,8 @@ main:
   - title: "Publications"
     url: /markdown/
 
+  - title: "Lab Members"
+    url: /members/
     
   - title: "Contact"
     url: /contact/
