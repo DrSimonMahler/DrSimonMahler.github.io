@@ -30,20 +30,23 @@ redirect_from:
   <b>Zijia Jin</b><br> 
   Labs: McLean Hall 304 & 305<br>
    <font size="3"> Email: <a href=mailto:“zjin27@stevens.edu,zjin27@stevens.edu”>zjin27@stevens.edu</a><br></font>
-    <br><br>
+    <br> 
+    <br>
 
 ## Undergraduate Students
-    <br><br>
+
+    <br>
+    <br>
 
 ## Moral Support 
 
-  <img src="../images/Tillie.png" alt="Tillie" style="width:135px;height:135px;" align="left"><font size="4"><br> 
+  <img src="../images/Tillie.png" alt="Tillie" style="width:135px;height:135px;" align="left"><br> 
   <b><a href=“https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup”>Tillie Stella Stevens</a></b><br> 
   Location: around campus <br>
-  <a href=“https://www.instagram.com/followstevens/?hl=en”>Instagram page</a>
+  <a href=“https://www.instagram.com/followstevens/?hl=en”>Instagram page</a><br>
   <br>
   
-  <img src="../images/Nehmo.png" alt="Nehmo_picture" style="width:135px;height:135px;" align="left"><font size="4"><br> 
+  <img src="../images/Nehmo.png" alt="Nehmo_picture" style="width:135px;height:135px;" align="left"><br> 
   <b>Nebu Florencio (Nehmo)</b><br> 
   <br>
   
