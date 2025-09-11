@@ -24,13 +24,13 @@ border-radius: 15px;
 <img src="../images/Matthew_Fernandes.png" alt="picture_Matthew_Fernandes" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Matthew Fernandes</b><br> 
   First-Year PhD Student<br> 
   Labs: McLean Hall 304 & 305<br>
-  Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a><br>
+  Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a><br><br>
 
   <br><img src="../images/Zijia_Jin.png" alt="picture_Zijia_Jin" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Zijia Jin</b><br> 
   First-Year PhD Student<br> 
   Labs: McLean Hall 304 & 305<br>
-  Email: <a href="mailto:zjin27@stevens.edu" target="_blank">zjin27@stevens.edu</a><br>
+  Email: <a href="mailto:zjin27@stevens.edu" target="_blank">zjin27@stevens.edu</a><br><br>
 
 ## Undergraduate Students
 
@@ -40,9 +40,10 @@ border-radius: 15px;
 ## Moral Support 
   <img src="../images/Tillie.png" alt="Tillie" class="roundrect" style="width:135px;height:135px;" align="left">
   <b>Tillie Stella Stevens</b><br> 
-  <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">New Campus Pup!</a><br>
+  <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">The Campus Pup!</a><br>
   Location: walking around campus <br>
   Instagram page: <a href="https://www.instagram.com/followstevens/?hl=en" target="_blank">here</a><br><br>
   
   <br><img src="../images/Nehmo.png" alt="Nehmo_picture" class="roundrect"  style="width:135px;height:135px;" align="left">
   <b>Nebu Florencio (Nehmo)</b><br> 
+  Never ending PhD <br>
