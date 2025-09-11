@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Simon Mahler's Homepage"
+title                    : "Speckle Imaging Lab"
 title_separator          : "-"
 name                     : &name "Simon Mahler, PhD"
-description              : &description "Website of Dr. Simon Mahler, optics and photonics"
+description              : &description "Website of Dr. Simon Mahler, Speckle Imaging Lab"
 url                      : https://drsimonmahler.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "Headshot_Simon_Mahler.png"
   name             : "Simon Mahler, PhD"
   pronouns         : # example: "all"  
-  bio              : "Incoming Assistant Professor"
-  location         : "Hoboken, NJ"
-  employer         : "Stevens Institute of Technology"
+  bio              : "Assistant Professor"
+  employer         : "Dept of Biomedical Engineering"
+  location         : "Stevens Institute of Technology"
   uri              : # URL
   email            : "smahler@stevens.edu" 
 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-9761-445X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/simon.mahler.2/bibliography/public/"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
