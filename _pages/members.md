@@ -30,10 +30,10 @@ border-radius: 15px;
 
 ## Group Picture (Nov-2025)
 <img src="../images/20251122_Lab_Group_Picture.jpeg" alt="picture_Group_Nov2025" class="roundrect" style="width:245px;height:245px;" align="left">
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Principal Investigator
-<img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b><br>
+<img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:145px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b><br>
   Assistant Professor<br>
   Department of Biomedical Engineering<br>
   Office: McLean Hall, Room 301<br>
@@ -54,8 +54,7 @@ border-radius: 15px;
 
 ## Undergraduate Students
 
-   
-<img src="../images/Rudy_Villalona.jpg" alt="picture_Rudy_Villalona" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Rudy Villalona</b><br> 
+<img src="../images/Rudy_Villalona.jpeg" alt="picture_Rudy_Villalona" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Rudy Villalona</b><br> 
   Stevens Freshman<br> 
   Labs: McLean Hall 304<br>
   Email: <a href="mailto:rvillalo@stevens.edu" target="_blank">rvillalo@stevens.edu</a><br><br>
@@ -72,8 +71,7 @@ border-radius: 15px;
   <img src="../images/Tillie.png" alt="Tillie" class="roundrect" style="width:135px;height:135px;" align="left">
   <b>Tillie Stella Stevens</b><br> 
   <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">The Campus Pup!</a><br>
-  Location: walking around campus <br>
-  Instagram page: <a href="https://www.instagram.com/followstevens/?hl=en" target="_blank">here</a><br><br>
+  <a href="https://www.instagram.com/followstevens/?hl=en" target="_blank">Instagram page</a><br><br><br>
   
   <br><img src="../images/Nehmo.png" alt="Nehmo_picture" class="roundrect"  style="width:135px;height:135px;" align="left">
   <b>Nebu Florencio (Nehmo)</b><br> 
