@@ -26,11 +26,9 @@ border-radius: 15px;
 
 }
 </style>
-
-
 ## Group Picture (Nov-2025)
-<img src="../images/20251122_Lab_Group_Picture.jpeg" alt="picture_Group_Nov2025" class="roundrect" style="width:245px;height:245px;" align="left">
-<br><br><br><br><br><br><br><br><br><br>
+<img src="../images/20251122_Lab_Group_Picture.jpeg" alt="picture_Group_Nov2025" class="roundrect" style="width:305px;height:305px;" align="left">
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Principal Investigator
 <img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:145px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b><br>
