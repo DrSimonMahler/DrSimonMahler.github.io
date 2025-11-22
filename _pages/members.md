@@ -11,7 +11,27 @@ redirect_from:
 border-radius: 15px;
   margin-right: 10px;  
 }
+  
+.img:hover{
+    color: #424242; 
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.15);
+  -ms-transform: scale(1.15); /* IE 9 */
+  -webkit-transform: scale(1.15); /* Safari and Chrome */
+
+}
 </style>
+
+
+## Group Picture (Nov-2025)
+<img src="../images/20251122_Lab_Group_Picture.jpeg" alt="picture_Group_Nov2025" class="roundrect" style="width:245px;height:245px;" align="left">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
 ## Principal Investigator
 <img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b><br>
   Assistant Professor<br>
@@ -26,7 +46,7 @@ border-radius: 15px;
   Labs: McLean Hall 304 & 305<br>
   Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a><br><br>
 
-  <br><img src="../images/Zijia_Jin.png" alt="picture_Zijia_Jin" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <br><img src="../images/Zijia_Jin.jpg" alt="picture_Zijia_Jin" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Zijia Jin</b><br> 
   First-Year PhD Student<br> 
   Labs: McLean Hall 304 & 305<br>
@@ -35,12 +55,12 @@ border-radius: 15px;
 ## Undergraduate Students
 
    
-<img src="../images/Rudy_Villalona.png" alt="picture_Rudy_Villalona" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Rudy Villalona</b><br> 
+<img src="../images/Rudy_Villalona.jpg" alt="picture_Rudy_Villalona" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Rudy Villalona</b><br> 
   Stevens Freshman<br> 
   Labs: McLean Hall 304<br>
   Email: <a href="mailto:rvillalo@stevens.edu" target="_blank">rvillalo@stevens.edu</a><br><br>
 
-  <br><img src="../images/Annika_Villanueva.png" alt="picture_Annika_Villanueva" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <br><img src="../images/Annika_Villanueva.jpg" alt="picture_Annika_Villanueva" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Annika Villanueva</b><br> 
   Stevens Freshman<br> 
   Labs: McLean Hall 305<br>
