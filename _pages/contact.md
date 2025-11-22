@@ -9,7 +9,8 @@ redirect_from:
 
 Dr. Simon Mahler
 <br> <img src="../images/building.png" alt="Building" style="width:25px;height:25px;"> Office: McLean Hall, Room 303
-<br> <img src="../images/address.png" alt="Address" style="width:25px;height:25px;"> Address: Stevens, 1 Castle Point Terrace, Hoboken, NJ 07030
+<br> <img src="../images/address.png" alt="Address" style="width:25px;height:25px;"> Address: Stevens Institute of Technology, 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 Castle Point Terrace, Hoboken, NJ 07030
 <br> <img src="../images/email.png" alt="Email" style="width:25px;height:25px;"> Emails: <a href="mailto:smahler@stevens.edu" target="_blank">smahler@stevens.edu</a> & <a href="mailto:sim.mahler@gmail.com" target="_blank">sim.mahler@gmail.com</a>
 <br> <img src="../images/phone.png" alt="PhoneUS" style="width:25px;height:25px;"> Phones:  USA:+1 626-487-7134  –––  FR: +33 6-98-45-00-99
 
