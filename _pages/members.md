@@ -11,7 +11,7 @@ redirect_from:
 border-radius: 15px;
   margin-right: 10px;  
 }
-  
+
 .img:hover{
     color: #424242; 
   -webkit-transition: all .3s ease-in;
@@ -23,8 +23,12 @@ border-radius: 15px;
   transform: scale(1.15);
   -ms-transform: scale(1.15); /* IE 9 */
   -webkit-transform: scale(1.15); /* Safari and Chrome */
-
 }
+
+  img {
+    transition:transform 0.25s ease;
+}
+
 </style>
 ## Group Picture (Nov-2025)
 <img src="../images/20251122_Lab_Group_Picture.jpeg" alt="picture_Group_Nov2025" class="roundrect" style="width:305px;height:305px;" align="left">
