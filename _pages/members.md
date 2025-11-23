@@ -72,8 +72,7 @@ border-radius: 15px;
 ## Moral Support 
   <img src="../images/Tillie.png" alt="Tillie" class="roundrect" style="width:135px;height:135px;" align="left">
   <b>Tillie Stella Stevens</b><br> 
-  <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">The Campus Pup!</a><br>
-  <a href="https://www.instagram.com/followstevens/?hl=en" target="_blank">Instagram page</a><br><br><br>
+  <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">The Campus Pup!</a><br><br><br><br><br>
   
   <br><img src="../images/Nehmo.png" alt="Nehmo_picture" class="roundrect"  style="width:135px;height:135px;" align="left">
   <b>Nebu Florencio (Nehmo)</b><br> 
