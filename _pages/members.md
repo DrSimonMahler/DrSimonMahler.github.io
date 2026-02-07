@@ -54,6 +54,14 @@ border-radius: 15px;
   Labs: McLean Hall 304 & 305<br>
   Email: <a href="mailto:zjin27@stevens.edu" target="_blank">zjin27@stevens.edu</a><br><br>
 
+  <br><img src="../images/Cesar_Noguera.jpg" alt="picture_Cesar_Noguera.jpg" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <b>Cesar Noguera</b><br> 
+  MSc Student (BME)<br> 
+  Lab: McLean Hall 304<br>
+  Email: <a href="mailto:cnoguera@stevens.edu" target="_blank">cnoguera@stevens.edu</a><br><br>
+
+
+
 ## Undergraduate Students
 
 <img src="../images/Rudy_Villalona.jpeg" alt="picture_Rudy_Villalona" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Rudy Villalona</b><br> 
