@@ -64,7 +64,7 @@ border-radius: 15px;
 
 ## Undergraduate Students
 
-<br><img src="../images/Dhaivik Chenemilla.jpg" alt="picture_Dhaivik_Chenemilla" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+<br><img src="../images/Dhaivik_Chenemilla.jpg" alt="picture_Dhaivik_Chenemilla" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Dhaivik Chenemilla</b><br> 
   Stevens Sophomore (BME)<br> 
   Labs: McLean Hall 305<br>
