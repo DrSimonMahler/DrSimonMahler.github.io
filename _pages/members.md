@@ -64,8 +64,14 @@ border-radius: 15px;
 
 ## Undergraduate Students
 
+<br><img src="../images/Dhaivik Chenemilla.jpg" alt="picture_Dhaivik_Chenemilla" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <b>Dhaivik Chenemilla</b><br> 
+  Stevens Sophomore (BME)<br> 
+  Labs: McLean Hall 305<br>
+  Email: <a href="mailto:dchenemi@stevens.edu" target="_blank">dchenemi@stevens.edu</a><br><br>
+  
 <img src="../images/Rudy_Villalona.jpeg" alt="picture_Rudy_Villalona" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Rudy Villalona</b><br> 
-  Stevens Freshman<br> 
+  Stevens Freshman (BME)<br> 
   Labs: McLean Hall 304<br>
   Email: <a href="mailto:rvillalo@stevens.edu" target="_blank">rvillalo@stevens.edu</a><br><br>
 
