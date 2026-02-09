@@ -71,7 +71,7 @@ border-radius: 15px;
   Email: <a href="mailto:dchenemi@stevens.edu" target="_blank">dchenemi@stevens.edu</a><br><br>
   
 
-<br><img src="../images/Amelia Rojewski.jpg" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+<br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Amelia Rojewski</b><br> 
   Stevens Freshman (BME)<br> 
   Labs: McLean Hall 305<br>
