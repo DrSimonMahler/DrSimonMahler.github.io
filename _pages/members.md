@@ -70,17 +70,23 @@ border-radius: 15px;
   Labs: McLean Hall 305<br>
   Email: <a href="mailto:dchenemi@stevens.edu" target="_blank">dchenemi@stevens.edu</a><br><br>
   
-<img src="../images/Rudy_Villalona.jpeg" alt="picture_Rudy_Villalona" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Rudy Villalona</b><br> 
-  Stevens Freshman (BME)<br> 
-  Labs: McLean Hall 304<br>
-  Email: <a href="mailto:rvillalo@stevens.edu" target="_blank">rvillalo@stevens.edu</a><br><br>
 
-  <br><img src="../images/Annika_Villanueva.jpg" alt="picture_Annika_Villanueva" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
-  <b>Annika Villanueva</b><br> 
+<br><img src="../images/Amelia Rojewski.jpg" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <b>Amelia Rojewski</b><br> 
+  Stevens Freshman (BME)<br> 
+  Labs: McLean Hall 305<br>
+  Email: <a href="mailto:avillanu1@stevens.edu" target="_blank">avillanu1@stevens.edu</a><br><br>
+
+<br><img src="../images/Annika_Villanueva.jpg" alt="picture_Annika_Villanueva" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <b>Annika Villanueva (Civil Eng)</b><br> 
   Stevens Freshman<br> 
   Labs: McLean Hall 305<br>
   Email: <a href="mailto:avillanu1@stevens.edu" target="_blank">avillanu1@stevens.edu</a><br><br>
 
+<img src="../images/Rudy_Villalona.jpeg" alt="picture_Rudy_Villalona" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Rudy Villalona</b><br> 
+  Stevens Freshman (BME)<br> 
+  Labs: McLean Hall 304<br>
+  Email: <a href="mailto:rvillalo@stevens.edu" target="_blank">rvillalo@stevens.edu</a><br><br>
 
    
 ## Moral Support 
