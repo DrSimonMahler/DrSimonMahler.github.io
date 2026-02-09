@@ -75,7 +75,7 @@ border-radius: 15px;
   <b>Amelia Rojewski</b><br> 
   Stevens Freshman (BME)<br> 
   Labs: McLean Hall 305<br>
-  Email: <a href="mailto:avillanu1@stevens.edu" target="_blank">avillanu1@stevens.edu</a><br><br>
+  Email: <a href="mailto:arojewsk@stevens.edu" target="_blank">arojewsk@stevens.edu</a><br><br>
 
 <br><img src="../images/Annika_Villanueva.jpg" alt="picture_Annika_Villanueva" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Annika Villanueva (Civil Eng)</b><br> 
