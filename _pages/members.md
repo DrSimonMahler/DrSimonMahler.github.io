@@ -60,7 +60,7 @@ border-radius: 15px;
   Lab: McLean Hall 304<br>
   Email: <a href="mailto:cnoguera@stevens.edu" target="_blank">cnoguera@stevens.edu</a><br><br>
 
-  <br><img src="../images/Sudhanshu_Kakkar.png" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <br><img src="../images/Sudhanshu_Kakkar.png" alt="picture_Sudhanshu_Kakkar" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Sudhanshu Kakkar</b><br> 
   MSc Student (CS)<br> 
   Graduate Research Assistant<br>
