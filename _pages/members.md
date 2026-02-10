@@ -60,22 +60,25 @@ border-radius: 15px;
   Lab: McLean Hall 304<br>
   Email: <a href="mailto:cnoguera@stevens.edu" target="_blank">cnoguera@stevens.edu</a><br><br>
 
-
+  <br><img src="../images/Sudhanshu_Kakkar.png" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <b>Sudhanshu Kakkar</b><br> 
+  MSc Student (CS)<br> 
+  Graduate Research Assistant<br>
+  Email: <a href="mailto:skakkar@stevens.edu" target="_blank">skakkar@stevens.edu</a><br><br>
 
 ## Undergraduate Students
 
-<br><img src="../images/Dhaivik_Chenemilla.jpg" alt="picture_Dhaivik_Chenemilla" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <b>Amelia Rojewski</b><br> 
+  Stevens Sophomore (BME)<br> 
+  Labs: McLean Hall 305<br>
+  Email: <a href="mailto:arojewsk@stevens.edu" target="_blank">arojewsk@stevens.edu</a><br><br>
+  
+  <br><img src="../images/Dhaivik_Chenemilla.jpg" alt="picture_Dhaivik_Chenemilla" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Dhaivik Chenemilla</b><br> 
   Stevens Sophomore (BME)<br> 
   Labs: McLean Hall 305<br>
   Email: <a href="mailto:dchenemi@stevens.edu" target="_blank">dchenemi@stevens.edu</a><br><br>
-  
-
-<br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
-  <b>Amelia Rojewski</b><br> 
-  Stevens Freshman (BME)<br> 
-  Labs: McLean Hall 305<br>
-  Email: <a href="mailto:arojewsk@stevens.edu" target="_blank">arojewsk@stevens.edu</a><br><br>
 
 <br><img src="../images/Annika_Villanueva.jpg" alt="picture_Annika_Villanueva" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Annika Villanueva (Civil Eng)</b><br> 
