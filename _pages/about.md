@@ -15,12 +15,10 @@ If you are interested in further details of any of my work or just want to conne
 
 News
 ======
-<p><u>January 2026</u>: I had a great time attending <strong>SPIE Photonics West 2026</strong> international conference in optics and photonics. The Biomedical Optics (BIOS) symposium continues to be an incredible forum for sharing the most recent research, inspiring discussions, and welcoming connections/collaborations. I was honored to deliver a large talk in the <strong>Neurotechnologies</strong> plenary session, where I presented our latest work on advanced optical methods for brain imaging.
+<p><u>January 2026</u>: I had a great time attending <strong>SPIE Photonics West 2026</strong> international conference in optics and photonics. The Biomedical Optics (BIOS) symposium continues to be an incredible forum for sharing the most recent research, inspiring discussions, and welcoming connections/collaborations. I was honored to deliver a large talk in the <strong>Neurotechnologies</strong> plenary session, where I presented our latest work on advanced optical methods for brain imaging.<br>
+<img src="../images/Mahler_talk_Neurotech_2026.jpeg" alt="picture_talk_neurotech" class="roundrect" style="width:705px;height:245px;" align="middle"><br> 
 👉 <a href="https://www.linkedin.com/posts/spie_neurophotonics-photonicswest-activity-7418889971337646081-kqsf?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuqUTEBgjKSbzdXou7dlfHxv6CuI2Gma2w" target="_blank">
         LinkedIn Post – SPIE Neurotechnologies at Photonics West</a>
-
-<img src="../images/Mahler_talk_Neurotech_2026.jpeg" alt="picture_talk_neurotech" class="roundrect" style="width:435px;height:135px;" align="middle"><br> 
-
     </p>
 
     
