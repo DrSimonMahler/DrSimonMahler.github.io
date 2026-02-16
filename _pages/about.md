@@ -15,6 +15,13 @@ If you are interested in further details of any of my work or just want to conne
 
 News
 ======
+<p><u>January 2026</u>: I had a great time attending <strong>SPIE Photonics West 2026</strong> international conference in optics and photonics. The Biomedical Optics (BIOS) symposium continues to be an incredible forum for sharing the most recent research, inspiring discussions, and welcoming connections/collaborations. I was honored to deliver a large talk in the <strong>Neurotechnologies</strong> plenary session, where I presented our latest work on advanced optical methods for brain imaging.
+👉 <a href="https://www.linkedin.com/posts/spie_neurophotonics-photonicswest-activity-7418889971337646081-kqsf?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuqUTEBgjKSbzdXou7dlfHxv6CuI2Gma2w" target="_blank">
+        LinkedIn Post – SPIE Neurotechnologies at Photonics West</a>
+    </p>
+
+    
+
 <u>August 2025</u>: I am now at Stevens Institute of Technology campus. My labs are located on room 304 and 305 of the McLean Hall.
 
 <u>March 2025</u>: I am happy to share that I will be joining in Sep-25 the <a href="https://www.stevens.edu/school-engineering-science/departments/biomedical-engineering" target="_blank">Department of Biomedical Engineering</a>, Stevens Institute of Technology (New Jersey) as a tenure-track Assistant Professor 🎉! My future lab will be exploring bio-imaging and optics (biophotonics)—with a focus on laser speckle imaging for blood flow in living tissues, advancing applications in neurological disease detection and cardiac embryonic development. If you're curious about my future work, interested in joining the lab, want to collaborate, or just want to connect, feel free to reach out!🚀
