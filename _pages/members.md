@@ -68,6 +68,13 @@ border-radius: 15px;
 
 ## Undergraduate Students
 
+ 
+<br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <b>Mirabel Babanawo</b><br> 
+  StevensJunior (MechE)<br> 
+  Labs: McLean Hall 305<br>
+  Email: <a href="mailto:mbabanaw@stevens.edu" target="_blank">mbabanaw@stevens.edu</a><br><br>
+  
   <br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Amelia Rojewski</b><br> 
   Stevens Sophomore (BME)<br> 
