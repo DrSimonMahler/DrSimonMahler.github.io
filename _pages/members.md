@@ -69,7 +69,7 @@ border-radius: 15px;
 ## Undergraduate Students
 
  
-<br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+<br><img src="../images/Mirabel.JPEG" alt="picture_Mirabel Babanawo" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Mirabel Babanawo</b><br> 
   StevensJunior (MechE)<br> 
   Labs: McLean Hall 305<br>
