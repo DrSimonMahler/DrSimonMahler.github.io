@@ -87,7 +87,13 @@ border-radius: 15px;
   Labs: McLean Hall 305<br>
   Email: <a href="mailto:dchenemi@stevens.edu" target="_blank">dchenemi@stevens.edu</a><br><br>
 
-<br><img src="../images/Annika_Villanueva.jpg" alt="picture_Annika_Villanueva" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <br><img src="../images/Anna_Nemenov.jpg" alt="picture_Anna_Nemenov" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <b>Anna Nemenov</b><br> 
+  Stevens Sophomore (Biology)<br> 
+  Labs: McLean Hall 305<br>
+  Email: <a href="mailto:anemenov@stevens.edu" target="_blank">anemenov@stevens.edu</a><br><br>
+
+  <br><img src="../images/Annika_Villanueva.jpg" alt="picture_Annika_Villanueva" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Annika Villanueva (Civil Eng)</b><br> 
   Stevens Freshman<br> 
   Labs: McLean Hall 305<br>
