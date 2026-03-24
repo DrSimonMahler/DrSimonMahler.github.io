@@ -30,9 +30,7 @@ border-radius: 15px;
 }
 
 </style>
-## Group Picture (Nov-2025)
-<img src="../images/20251122_Lab_Group_Picture.jpeg" alt="picture_Group_Nov2025" class="roundrect" style="width:305px;height:305px;" align="left">
-<br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 ## Principal Investigator
 <img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:145px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b><br>
@@ -68,19 +66,18 @@ border-radius: 15px;
 
 ## Undergraduate Students
 
- 
 <br><img src="../images/Mirabel.jpeg" alt="picture_Mirabel Babanawo" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Mirabel Babanawo</b><br> 
   Stevens Junior (MechE)<br> 
   Labs: McLean Hall 305<br>
   Email: <a href="mailto:mbabanaw@stevens.edu" target="_blank">mbabanaw@stevens.edu</a><br><br>
   
-    <br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia_Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Amelia Rojewski</b><br> 
   Stevens Sophomore (BME)<br> 
   Labs: McLean Hall 305<br>
   Email: <a href="mailto:arojewsk@stevens.edu" target="_blank">arojewsk@stevens.edu</a><br><br>
-  
+
   <br><img src="../images/Dhaivik_Chenemilla.jpg" alt="picture_Dhaivik_Chenemilla" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Dhaivik Chenemilla</b><br> 
   Stevens Sophomore (BME)<br> 
@@ -119,3 +116,7 @@ border-radius: 15px;
   <br><img src="../images/Nehmo.png" alt="Nehmo_picture" class="roundrect"  style="width:135px;height:135px;" align="left">
   <b>Nebu Florencio (Nehmo)</b><br> 
   Never ending PhD <br>
+
+## Group Picture (Nov-2025)
+<img src="../images/20251122_Lab_Group_Picture.jpeg" alt="picture_Group_Nov2025" class="roundrect" style="width:305px;height:305px;" align="left">
+<br><br><br><br><br><br><br><br><br><br><br><br>
