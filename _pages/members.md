@@ -84,7 +84,7 @@ border-radius: 15px;
   Labs: McLean Hall 305<br>
   Email: <a href="mailto:dchenemi@stevens.edu" target="_blank">dchenemi@stevens.edu</a><br><br>
 
-  <br><img src="../images/Zaina_Matahen.JPG" alt="picture_Zaina_Matahen" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <br><img src="../images/Zaina_Matahen.jpeg" alt="picture_Zaina_Matahen" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Zaina_Matahen</b><br> 
   Stevens Sophomore (Biology)<br> 
   Labs: McLean Hall 305<br>
