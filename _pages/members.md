@@ -105,7 +105,7 @@ border-radius: 15px;
   
   <img src="../images/Tillie.png" alt="Tillie" class="roundrect" style="width:135px;height:135px;" align="left">
   <b>Tillie Stella Stevens</b><br> 
-  <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">The Campus Pup!</a><br>
+  <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">The Campus Pup!</a><br><br><br>
   
 ## Group Picture (Nov-2025)
 <img src="../images/20251122_Lab_Group_Picture.jpeg" alt="picture_Group_Nov2025" class="roundrect" style="width:305px;height:305px;" align="left">
