@@ -30,10 +30,8 @@ border-radius: 15px;
 }
 
 </style>
-
-
 ## Principal Investigator
-<img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:145px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b><br>
+<img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:145px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b>
   Assistant Professor<br>
   Department of Biomedical Engineering<br>
   Office: McLean Hall, Room 303<br>
@@ -44,7 +42,7 @@ border-radius: 15px;
 <img src="../images/Matthew_Fernandes.png" alt="picture_Matthew_Fernandes" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Matthew Fernandes</b><br> 
   First-Year PhD Student<br> 
   Labs: McLean Hall 304 & 305<br>
-  Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a><br><br>
+  Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a><br>
 
   <br><img src="../images/Zijia_Jin.jpg" alt="picture_Zijia_Jin" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Zijia Jin</b><br> 
@@ -56,15 +54,14 @@ border-radius: 15px;
   PhD Student<br> 
   Dual-PhD program with Ecole Centrale de Nantes<br> 
   Labs: McLean Hall 304 & 305<br>
-  Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a><br><br>
+  Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a><br>
 
 ## Graduate Students
-
   <br><img src="../images/Cesar_Noguera.jpg" alt="picture_Cesar_Noguera.jpg" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Cesar Noguera</b><br> 
   MSc Student (BME)<br> 
   Lab: McLean Hall 304<br>
-  Email: <a href="mailto:cnoguera@stevens.edu" target="_blank">cnoguera@stevens.edu</a><br><br>
+  Email: <a href="mailto:cnoguera@stevens.edu" target="_blank">cnoguera@stevens.edu</a><br>
 
   <br><img src="../images/Sudhanshu_Kakkar.png" alt="picture_Sudhanshu_Kakkar" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Sudhanshu Kakkar</b><br> 
@@ -79,19 +76,19 @@ border-radius: 15px;
   <b>Dhaivik Chenemilla</b><br> 
   Stevens Sophomore (BME)<br> 
   Labs: McLean Hall 305<br>
-  Email: <a href="mailto:dchenemi@stevens.edu" target="_blank">dchenemi@stevens.edu</a><br><br>
+  Email: <a href="mailto:dchenemi@stevens.edu" target="_blank">dchenemi@stevens.edu</a><br>
 
   <br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia_Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Amelia Rojewski</b><br> 
   Stevens Sophomore (BME)<br> 
   Labs: McLean Hall 305<br>
-  Email: <a href="mailto:arojewsk@stevens.edu" target="_blank">arojewsk@stevens.edu</a><br><br>
+  Email: <a href="mailto:arojewsk@stevens.edu" target="_blank">arojewsk@stevens.edu</a><br>
 
   <br><img src="../images/Zaina_Matahen.jpeg" alt="picture_Zaina_Matahen" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Zaina_Matahen</b><br> 
   Stevens Sophomore (Biology)<br> 
   Labs: McLean Hall 305<br>
-  Email: <a href="mailto:zmatahen@stevens.edu" target="_blank">zmatahen@stevens.edu</a><br><br>
+  Email: <a href="mailto:zmatahen@stevens.edu" target="_blank">zmatahen@stevens.edu</a><br>
   
   <br><img src="../images/Anna_Nemenov.jpeg" alt="picture_Anna_Nemenov" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Anna Nemenov</b><br> 
@@ -104,11 +101,11 @@ border-radius: 15px;
 
   <br><img src="../images/Nehmo.png" alt="Nehmo_picture" class="roundrect"  style="width:135px;height:135px;" align="left">
   <b>Nebu Florencio (Nehmo)</b><br> 
-  Never ending PhD <br>
+  Never ending PhD <br><br><br><br>
   
   <img src="../images/Tillie.png" alt="Tillie" class="roundrect" style="width:135px;height:135px;" align="left">
   <b>Tillie Stella Stevens</b><br> 
-  <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">The Campus Pup!</a><br><br><br><br><br>
+  <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">The Campus Pup!</a><br>
   
 ## Group Picture (Nov-2025)
 <img src="../images/20251122_Lab_Group_Picture.jpeg" alt="picture_Group_Nov2025" class="roundrect" style="width:305px;height:305px;" align="left">
