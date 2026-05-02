@@ -6,6 +6,39 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 900px;
+  }
+
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+
+  th {
+    background-color: #f4f4f4;
+  }
+
+  th button {
+    margin-left: 6px;
+    padding: 2px 6px;
+    cursor: pointer;
+    font-size: 12px;
+  }
+
+  td:first-child {
+    text-align: left;
+  }
+</style>
 
 {% if site.author.googlescholar %}
  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</div>
@@ -153,7 +186,7 @@ function sortTable(columnIndex, type, ascending = true) {
 }
 </script>
 
-#### Table updated on 21-October-2025
+#### Table updated on 21-April-2026
 
 
 
