@@ -1,50 +1,109 @@
-// assets/js/table-sort.js
+// table-sort.js
 
-let sortDirection = {};
+document.addEventListener("DOMContentLoaded", function () {
 
-function sortTable(column, type) {
-  const table = document.getElementById("journalTable");
+  // Initialize totals on page load
+  updateTotal();
 
-  if (!table) return;
+  // Make function global so onclick works
+  window.sortTable = function(column, type) {
 
-  const tbody = table.tBodies[0];
+    const table = document.getElementById("journalTable");
 
-  // Get all rows
-  let rows = Array.from(tbody.rows);
-
-  // Keep last row ("Total") fixed
-  const totalRow = rows.pop();
-
-  // Toggle sort direction
-  sortDirection[column] = !sortDirection[column];
-
-  rows.sort((a, b) => {
-    let A = a.cells[column].innerText.trim();
-    let B = b.cells[column].innerText.trim();
-
-    if (type === "number") {
-      A = parseFloat(A);
-      B = parseFloat(B);
-
-      // Handle NaN values like "--"
-      A = isNaN(A) ? -Infinity : A;
-      B = isNaN(B) ? -Infinity : B;
-    } else {
-      A = A.toLowerCase();
-      B = B.toLowerCase();
+    if (!table) {
+      console.error("Table not found");
+      return;
     }
 
-    if (A < B) return sortDirection[column] ? -1 : 1;
-    if (A > B) return sortDirection[column] ? 1 : -1;
+    const tbody = table.querySelector("tbody");
 
-    return 0;
-  });
+    if (!tbody) {
+      console.error("tbody not found");
+      return;
+    }
 
-  // Rebuild tbody
-  tbody.innerHTML = "";
+    // Get rows
+    let rows = Array.from(tbody.querySelectorAll("tr"));
 
-  rows.forEach(row => tbody.appendChild(row));
+    // Remove last row (Total)
+    const totalRow = rows.pop();
 
-  // Reattach total row
-  tbody.appendChild(totalRow);
-}
+    // Toggle direction
+    const ascending =
+      table.getAttribute("data-sort-dir") !== "asc";
+
+    table.setAttribute(
+      "data-sort-dir",
+      ascending ? "asc" : "desc"
+    );
+
+    rows.sort(function(a, b) {
+
+      let A = a.cells[column].textContent.trim();
+      let B = b.cells[column].textContent.trim();
+
+      if (type === "number") {
+        A = parseFloat(A) || 0;
+        B = parseFloat(B) || 0;
+      } else {
+        A = A.toLowerCase();
+        B = B.toLowerCase();
+      }
+
+      if (A < B) return ascending ? -1 : 1;
+      if (A > B) return ascending ? 1 : -1;
+
+      return 0;
+    });
+
+    // Clear tbody
+    tbody.innerHTML = "";
+
+    // Re-add sorted rows
+    rows.forEach(row => tbody.appendChild(row));
+
+    // Recalculate total
+    updateTotal();
+
+    // Add total row back
+    tbody.appendChild(totalRow);
+  };
+
+  function updateTotal() {
+
+    const table = document.getElementById("journalTable");
+
+    if (!table) return;
+
+    const tbody = table.querySelector("tbody");
+
+    if (!tbody) return;
+
+    const rows = Array.from(tbody.querySelectorAll("tr"));
+
+    if (rows.length === 0) return;
+
+    // Last row is total row
+    const totalRow = rows[rows.length - 1];
+
+    let total = 0;
+
+    // Sum all rows except total row
+    for (let i = 0; i < rows.length - 1; i++) {
+
+      const val = parseFloat(
+        rows[i].cells[2].textContent.trim()
+      );
+
+      if (!isNaN(val)) {
+        total += val;
+      }
+    }
+
+    totalRow.cells[0].innerHTML = "<strong>Total</strong>";
+    totalRow.cells[1].textContent = "--";
+    totalRow.cells[2].innerHTML =
+      "<strong>" + total + "</strong>";
+  }
+
+});
