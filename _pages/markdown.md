@@ -75,25 +75,83 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
 
 ## Table — Publications per Journal
 
-| Journal                            | Impact <br> Factor (2024)   | No. of <br> publications|
-| --------                           | ------               | --- |
-| Physical Review Letters            | 9.0                  | 3   |
-| Optica                             | 8.4                  | 1   |
-| Nanophotonics                      | 7.1                  | 1   |
-| APL Bioengineering                 | 6.6                  | 1   |
-| The Journal of Pathology           | 5.6                  | 1   |
-| Neurophotonics                     | 5.3                  | 1   |
-| Physical Review A                  | 4.0                  | 3   |
-| Optics Letters                     | 3.7                  | 1   |
-| Physical Review Research           | 3.5                  | 2   |
-| Journal of Biomedical Optics       | 3.0                  | 1   |
-| Biomedical Optics Express          | 3.0                  | 4   |
-| Optics Express                     | 3.2                  | 2   |
-| Developmental Biology              | 2.5                  | 1   |
-| Journal of Optics                  | 2.1                  | 1   |
-| Journal of Physics B               | 1.5                  | 1   |
-| Optics Continuum                   | 1.1                  | 1   |
-| Total                              |  --                  | 25   |
+
+<table id="journalTable">
+  <thead>
+    <tr>
+      <th>
+        Journal
+        <button onclick="sortTable(0, 'text', true)">▲</button>
+        <button onclick="sortTable(0, 'text', false)">▼</button>
+      </th>
+
+      <th>
+        Impact <br> Factor (2024)
+        <button onclick="sortTable(1, 'number', true)">▲</button>
+        <button onclick="sortTable(1, 'number', false)">▼</button>
+      </th>
+
+      <th>
+        No. of <br> publications
+        <button onclick="sortTable(2, 'number', true)">▲</button>
+        <button onclick="sortTable(2, 'number', false)">▼</button>
+      </th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr><td>Physical Review Letters</td><td>9.0</td><td>3</td></tr>
+    <tr><td>Optica</td><td>8.4</td><td>1</td></tr>
+    <tr><td>Nanophotonics</td><td>7.1</td><td>1</td></tr>
+    <tr><td>APL Bioengineering</td><td>6.6</td><td>1</td></tr>
+    <tr><td>The Journal of Pathology</td><td>5.6</td><td>1</td></tr>
+    <tr><td>Neurophotonics</td><td>5.3</td><td>1</td></tr>
+    <tr><td>Physical Review A</td><td>4.0</td><td>3</td></tr>
+    <tr><td>Optics Letters</td><td>3.7</td><td>1</td></tr>
+    <tr><td>Physical Review Research</td><td>3.5</td><td>2</td></tr>
+    <tr><td>Journal of Biomedical Optics</td><td>3.0</td><td>1</td></tr>
+    <tr><td>Biomedical Optics Express</td><td>3.0</td><td>4</td></tr>
+    <tr><td>Optics Express</td><td>3.2</td><td>2</td></tr>
+    <tr><td>Developmental Biology</td><td>2.5</td><td>1</td></tr>
+    <tr><td>Journal of Optics</td><td>2.1</td><td>1</td></tr>
+    <tr><td>Journal of Physics B</td><td>1.5</td><td>1</td></tr>
+    <tr><td>Optics Continuum</td><td>1.1</td><td>1</td></tr>
+    <tr><td><strong>Total</strong></td><td>--</td><td><strong>25</strong></td></tr>
+  </tbody>
+</table>
+
+<script>
+function sortTable(columnIndex, type, ascending = true) {
+  const table = document.getElementById("journalTable");
+  const tbody = table.querySelector("tbody");
+
+  // Exclude the last row ("Total") from sorting
+  const rows = Array.from(tbody.querySelectorAll("tr"));
+  const totalRow = rows.pop();
+
+  rows.sort((a, b) => {
+    let valA = a.cells[columnIndex].innerText.trim();
+    let valB = b.cells[columnIndex].innerText.trim();
+
+    if (type === "number") {
+      valA = parseFloat(valA) || 0;
+      valB = parseFloat(valB) || 0;
+    } else {
+      valA = valA.toLowerCase();
+      valB = valB.toLowerCase();
+    }
+
+    if (valA < valB) return ascending ? -1 : 1;
+    if (valA > valB) return ascending ? 1 : -1;
+    return 0;
+  });
+
+  // Rebuild table
+  tbody.innerHTML = "";
+  rows.forEach(row => tbody.appendChild(row));
+  tbody.appendChild(totalRow);
+}
+</script>
 
 #### Table updated on 21-October-2025
 
