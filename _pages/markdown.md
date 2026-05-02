@@ -117,9 +117,9 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
         <button onclick="sortTable(0, 'text', true)">▲</button>
         <button onclick="sortTable(0, 'text', false)">▼</button>
       </th>
-
+      
       <th>
-        Impact <br> Factor (2024)
+        Impact Factor <br> (2024)
         <button onclick="sortTable(1, 'number', true)">▲</button>
         <button onclick="sortTable(1, 'number', false)">▼</button>
       </th>
@@ -152,40 +152,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
     <tr><td><strong>Total</strong></td><td>--</td><td><strong>25</strong></td></tr>
   </tbody>
 </table>
-
-<script>
-function sortTable(columnIndex, type, ascending = true) {
-  const table = document.getElementById("journalTable");
-  const tbody = table.querySelector("tbody");
-
-  // Exclude the last row ("Total") from sorting
-  const rows = Array.from(tbody.querySelectorAll("tr"));
-  const totalRow = rows.pop();
-
-  rows.sort((a, b) => {
-    let valA = a.cells[columnIndex].innerText.trim();
-    let valB = b.cells[columnIndex].innerText.trim();
-
-    if (type === "number") {
-      valA = parseFloat(valA) || 0;
-      valB = parseFloat(valB) || 0;
-    } else {
-      valA = valA.toLowerCase();
-      valB = valB.toLowerCase();
-    }
-
-    if (valA < valB) return ascending ? -1 : 1;
-    if (valA > valB) return ascending ? 1 : -1;
-    return 0;
-  });
-
-  // Rebuild table
-  tbody.innerHTML = "";
-  rows.forEach(row => tbody.appendChild(row));
-  tbody.appendChild(totalRow);
-}
-</script>
-
+<script src="/assets/js/table-sort.js"></script>
 #### Table updated on 21-April-2026
 
 
