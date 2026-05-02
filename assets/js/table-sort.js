@@ -64,9 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Recalculate total
     updateTotal();
-
-    // Add total row back
-    tbody.appendChild(totalRow);
+    
   };
 
   function updateTotal() {
