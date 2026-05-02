@@ -152,7 +152,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
     <tr><td><strong>Total</strong></td><td>--</td><td><strong>25</strong></td></tr>
   </tbody>
 </table>
-<script src="/assets/js/table-sort.js"></script>
+<script src="table-sort.js"></script>
 #### Table updated on 21-April-2026
 
 
