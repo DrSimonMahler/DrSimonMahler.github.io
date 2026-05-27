@@ -72,7 +72,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
 
 <img src="../images/18_iSVS_theory_paper.jpg" alt="18_iSVS_theory_paper" style="width:135px;height:135px;" align="left"><font size="4">  18 – <b>Interferometric Speckle Visibility Spectroscopy (iSVS) for Measuring Decorrelation Time and Dynamics of Moving Samples with Enhanced Signal-to-Noise Ratio and Relaxed Reference Requirements.</b></font> <br><font size="3"> <span style="color: #8f8a85;"> Y. X. Huang,</span> S. Mahler, <span style="color: #8f8a85;"> J. Mertz, C. Yang.</span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> Optics Express 31(19), 31253-31266 (2023). <a href="https://doi.org/10.1364/OE.499473" target="_blank">(article link)</a> </font> <br><br>
 
-<img src="../images/17_percolation_paper.png" alt="17_percolation_paper" style="width:135px;height:135px;" align="left"><font size="4">  17 – <b> Percolation with coupled lasers: effect of non-linearities on the phase transition. </b> <br><font size="3"> S. Mahler, <span style="color: #8f8a85;">  M. A. Rmilah, A. A. Friesem, N. Davidson. </span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> Under preparation, (2024). <a href="https://doi.org/10.1364/OE.499473" target="_blank">(article link)</a> </font> <br><br><br>
+<img src="../images/17_percolation_paper.png" alt="17_percolation_paper" style="width:135px;height:135px;" align="left"><font size="4">  17 – <b> Percolation with coupled lasers: effect of non-linearities on the phase transition. </b> <br><font size="3"> S. Mahler, <span style="color: #8f8a85;">  M. A. Rmilah, A. A. Friesem, N. Davidson. </span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> Reports on Progress in Physics, (2026). <a href="https://doi.org/10.1088/1361-6633/ae72c3" target="_blank">(article link)</a> </font> <br><br><br>
 
 <img src="../images/16_AGF_lasers_paper.png" alt="16_AGF_lasers_paper" style="width:135px;height:135px;" align="left"><font size="4"> <br> 16 – <b> Programmable all optical spin simulator with artificial gauge fields. </b> <br><font size="3"> S. Mahler*, <span style="color: #8f8a85;"> E. Bernstein*, S. Gadasi, G. Arwas, A. A. Friesem, N. Davidson. </span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> Phys. Rev. Lett. 135, 083804 (2025). <a href="https://doi.org/10.1103/chxf-fq9v" target="_blank">(article link)</a> <br><br>
 
@@ -133,6 +133,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
   </thead>
 
   <tbody>
+    <tr><td>Reports on Progress in Physics</td><td>21</td><td>1</td></tr>
     <tr><td>Physical Review Letters</td><td>9.0</td><td>3</td></tr>
     <tr><td>Optica</td><td>8.4</td><td>1</td></tr>
     <tr><td>Nanophotonics</td><td>7.1</td><td>1</td></tr>
