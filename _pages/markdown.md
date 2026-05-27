@@ -119,7 +119,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
       </th>
       
       <th>
-        Impact Factor <br> (2024)
+        Impact Factor <br> (2026)
         <button onclick="sortTable(1, 'number', true)">▲</button>
         <button onclick="sortTable(1, 'number', false)">▼</button>
       </th>
@@ -133,7 +133,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
   </thead>
 
   <tbody>
-    <tr><td>Reports on Progress in Physics</td><td>21</td><td>1</td></tr>
+    <tr><td>Reports on Progress in Physics</td><td>20.7</td><td>1</td></tr>
     <tr><td>Physical Review Letters</td><td>9.0</td><td>3</td></tr>
     <tr><td>Optica</td><td>8.4</td><td>1</td></tr>
     <tr><td>Nanophotonics</td><td>7.1</td><td>1</td></tr>
