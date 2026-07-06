@@ -47,7 +47,7 @@ redirect_from:
 #### Sorted from most recent to oldest
 <img src="../images/29_optimization_CBF_algo.png" alt="29_optimization_CBF_algo" style="width:135px;height:135px;" align="left"><font size="4"> 29 – <b>Optimized cerebral blood flow measurement in speckle contrast optical spectroscopy via refinement of noise calibration.</b></font> <br><font size="3"><span style="color: #8f8a85;"> N. Liu, Y.X. Huang,</span> S. Mahler, <span style="color: #8f8a85;">C. Yang. </span> <br> <font size="3" style="font-family: 'Font', Calibri;"> Optics Letters 50(17), 5382-5385 (2025) <a href="https://doi.org/10.1364/OL.570951" target="_blank">(article link)</a></font> <br><br>
 
-<img src="../images/28_sexing_eggs_paper.png" alt="28_sexing_eggs_paper" style="width:135px;height:135px;" align="left"><font size="4"> 28 – <b>Exploring Non-Invasive Sexing of Chicken Eggs at the Early Embryonic Stage Using Laser Speckle Contrast Imaging and Deep Neural Networks.</b></font> <br><font size="3"> S. Mahler, <span style="color: #8f8a85;"> Z. Dong, C. Redhead, M. Bronner, C. Yang. </span> <br> <font size="3" style="font-family: 'Font', Calibri;"> bioRXiv:2025.04.17.649355 Under review (2025). <a href="https://www.biorxiv.org/content/10.1101/2025.04.17.649355v1" target="_blank">(article link)</a> </font> <br><br>
+<img src="../images/28_sexing_eggs_paper.png" alt="28_sexing_eggs_paper" style="width:135px;height:135px;" align="left"><font size="4"> 28 – <b>Detection of non-invasive sexing of early chick embryos in intact eggs using laser speckle contrast imaging and deep neural networks.</b></font> <br><font size="3"> S. Mahler, <span style="color: #8f8a85;"> A. Arora, C. Redhead, S. Yin, S.N. Hari, E. Wang, C.I. Moxley, A.A. Abedoye, Z. Dong, H. Zhou. X. Chen, M. Bronner, C. Yang. </span> <br> <font size="3" style="font-family: 'Font', Calibri;"> PLOS ONE 21(6): e0323847 (2026). <a href="https://doi.org/10.1371/journal.pone.0323847" target="_blank">(article link)</a> </font> <br><br>
 
 <img src="../images/27_temporal_occlusion_paper.png" alt="27_temporal_occlusion_paper" style="width:135px;height:135px;" align="left"><font size="4">  27 – <b>Assessing human scalp and brain blood flow sensitivities via superficial temporal artery occlusion using speckle contrast optical spectroscopy.</b></font> <font size="3"> <span style="color: #8f8a85;"> Y. X. Huang*,</span> S. Mahler, <span style="color: #8f8a85;"> M. Dickson, A. Abedi, J. M. Tyszka, J. L. Y. Tung, J. Russin, C. Liu, C. Yang.</span></font> <br> <font size="3" style="font-family: 'Font', Calibri;"> APL BioEngineering 9, 046106 (2025). <a href="https://doi.org/10.48550/arXiv.2501.19005" target="_blank">(article link)</a> </font> <br><br>
 
@@ -146,6 +146,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
     <tr><td>Journal of Biomedical Optics</td><td>3.0</td><td>1</td></tr>
     <tr><td>Biomedical Optics Express</td><td>3.0</td><td>4</td></tr>
     <tr><td>Optics Express</td><td>3.2</td><td>2</td></tr>
+    <tr><td>PLOS One</td><td>2.8</td><td>1</td></tr>
     <tr><td>Developmental Biology</td><td>2.5</td><td>1</td></tr>
     <tr><td>Journal of Optics</td><td>2.1</td><td>1</td></tr>
     <tr><td>Journal of Physics B</td><td>1.5</td><td>1</td></tr>
