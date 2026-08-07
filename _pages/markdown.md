@@ -137,22 +137,22 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
   <tbody>
     <tr><td>Reports on Progress in Physics</td><td>20.7</td><td>1</td></tr>
     <tr><td>Physical Review Letters</td><td>9.0</td><td>3</td></tr>
-    <tr><td>Optica</td><td>8.4</td><td>1</td></tr>
-    <tr><td>Nanophotonics</td><td>7.1</td><td>1</td></tr>
-    <tr><td>APL Bioengineering</td><td>6.6</td><td>1</td></tr>
-    <tr><td>The Journal of Pathology</td><td>5.6</td><td>1</td></tr>
-    <tr><td>Neurophotonics</td><td>5.3</td><td>1</td></tr>
-    <tr><td>Physical Review A</td><td>4.0</td><td>3</td></tr>
-    <tr><td>Optics Letters</td><td>3.7</td><td>1</td></tr>
+    <tr><td>Optica</td><td>8.8</td><td>1</td></tr>
+    <tr><td>Nanophotonics</td><td>7.0</td><td>1</td></tr>
+    <tr><td>APL Bioengineering</td><td>5.7</td><td>1</td></tr>
+    <tr><td>The Journal of Pathology</td><td>5.4</td><td>1</td></tr>
+    <tr><td>Neurophotonics</td><td>4.7</td><td>1</td></tr>
+    <tr><td>Physical Review A</td><td>4.2</td><td>3</td></tr>
+    <tr><td>Optics Letters</td><td>3.5</td><td>1</td></tr>
     <tr><td>Physical Review Research</td><td>3.5</td><td>2</td></tr>
+    <tr><td>Optics Express</td><td>3.4</td><td>2</td></tr>
+    <tr><td>Biomedical Optics Express</td><td>3.2</td><td>4</td></tr>
     <tr><td>Journal of Biomedical Optics</td><td>3.0</td><td>1</td></tr>
-    <tr><td>Biomedical Optics Express</td><td>3.0</td><td>4</td></tr>
-    <tr><td>Optics Express</td><td>3.2</td><td>2</td></tr>
     <tr><td>PLOS One</td><td>2.8</td><td>1</td></tr>
     <tr><td>Developmental Biology</td><td>2.5</td><td>1</td></tr>
     <tr><td>Journal of Optics</td><td>2.1</td><td>1</td></tr>
     <tr><td>Journal of Physics B</td><td>1.5</td><td>1</td></tr>
-    <tr><td>Optics Continuum</td><td>1.1</td><td>1</td></tr>
+    <tr><td>Optics Continuum</td><td>1.5</td><td>2</td></tr>
     <tr><td><strong>Total</strong></td><td>--</td><td></td></tr>
   </tbody>
 </table>
