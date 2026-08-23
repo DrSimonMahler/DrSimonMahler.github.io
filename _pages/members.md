@@ -30,6 +30,12 @@ border-radius: 15px;
 }
 
 </style>
+
+## Group Picture (Aug-2025)
+<img src="../images/Labo_photo_group_20260810_121449.jpg" alt="Group_picture_Aug_2026" class="roundrect" style="width:305px;height:305px;" align="left">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 ## Principal Investigator
 <img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:145px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b>
   Assistant Professor<br>
@@ -66,21 +72,15 @@ border-radius: 15px;
 
 ## Undergraduate Students
   
-  <br><img src="../images/Amelia_Rojewski.JPG" alt="picture_Amelia_Rojewski" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
-  <b>Amelia Rojewski</b><br> 
-  Stevens Sophomore (BME)<br> 
-  Labs: McLean Hall 305<br>
-  Email: <a href="mailto:arojewsk@stevens.edu" target="_blank">arojewsk@stevens.edu</a><br>
-
-  <br><img src="../images/Zaina_Matahen.jpeg" alt="picture_Zaina_Matahen" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
-  <b>Zaina_Matahen</b><br> 
-  Stevens Sophomore (Biology)<br> 
-  Labs: McLean Hall 305<br>
-  Email: <a href="mailto:zmatahen@stevens.edu" target="_blank">zmatahen@stevens.edu</a><br>
-  
   <br><img src="../images/Anna_Nemenov.jpeg" alt="picture_Anna_Nemenov" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
   <b>Anna Nemenov</b><br> 
-  Stevens Sophomore (Biology)<br> 
+  Stevens Junior (Biology)<br> 
+  Labs: McLean Hall 305<br>
+  Email: <a href="mailto:anemenov@stevens.edu" target="_blank">anemenov@stevens.edu</a><br><br>
+
+  <br><img src="../images/Niko_Gattoni.jpg" alt="picture_Niko_Gattoni" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
+  <b>Niko Gattoni</b><br> 
+  Stevens Sophomore (BME)<br> 
   Labs: McLean Hall 305<br>
   Email: <a href="mailto:anemenov@stevens.edu" target="_blank">anemenov@stevens.edu</a><br><br>
 
@@ -95,6 +95,4 @@ border-radius: 15px;
   <b>Tillie Stella Stevens</b><br> 
   <a href="https://www.stevens.edu/news/meet-tillie-stevens-new-campus-pup" target="_blank">The Campus Pup!</a><br><br><br>
   
-<!-- ## Group Picture (Nov-2025)-->
-
 <br><br><br><br><br><br><br><br><br><br><br><br>
