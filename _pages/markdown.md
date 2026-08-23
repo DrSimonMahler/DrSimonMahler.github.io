@@ -40,10 +40,12 @@ redirect_from:
   }
 </style>
 
+
+## List of Publications 
 {% if site.author.googlescholar %}
  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.</div>
 {% endif %}
-## List of Publications 
+
 #### Sorted from most recent to oldest
 
 <img src="../images/31_LG_egg_paper.jpg" alt="31_LG_egg_paper" style="width:135px;height:135px;" align="left"><font size="4"> 31 – <b> Longitudinal, Non-Invasive Imaging of the Developing Chick Heart, Vasculature, and Chorioallantoic Membrane (CAM).</b></font> <br><font size="3"><span style="color: #8f8a85;"> 
@@ -157,7 +159,7 @@ Depth Sensitivity in Laser Interferometry Speckle Visibility Spectroscopy (iSVS)
     <tr><td>Journal of Optics</td><td>2.1</td><td>1</td></tr>
     <tr><td>Journal of Physics B</td><td>1.5</td><td>1</td></tr>
     <tr><td>Optics Continuum</td><td>1.5</td><td>2</td></tr>
-    <tr><td><strong>Total</strong></td><td>29</td><td></td></tr>
+    <tr><td><strong>Total</strong></td><td></td><td>30</td></tr>
   </tbody>
 </table>
 
