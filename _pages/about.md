@@ -17,10 +17,11 @@ News
 ======
 <p><u>August 2026</u>: check-out our latest non-invasive longitudinal video of chick embryonic blood vessel development form day 0 to day 9 of incubation (~42% of gestation time):
 <div class="video-mask">
-<video width="350" controls autoplay muted loop>
+<video width="550" controls autoplay muted loop>
         <source src="../images/LG_egg_video.mp4" type="video/mp4">
 </video>
 </div>
+Video link: <a href="https://drive.google.com/drive/folders/1Am7npE9HqNHRRoXGeNldNjAVzrCEouOz?usp=sharing" target="_blank">Here</a>
 
 <p><u>January 2026</u>: I had a great time attending <strong>SPIE Photonics West 2026</strong> international conference in optics and photonics. The Biomedical Optics (BIOS) symposium continues to be an incredible forum for sharing the most recent research, inspiring discussions, and welcoming connections/collaborations. I was honored to deliver a large talk in the <strong>Neurotechnologies</strong> plenary session, where I presented our latest work on advanced optical methods for brain imaging.<br>
 <img src="../images/Mahler_talk_Neurotech_2026.jpeg" alt="picture_talk_neurotech" class="roundrect" style="width:705px;height:245px;" align="middle"><br> 
