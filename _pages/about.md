@@ -6,15 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-.video-mask{
-    width: 350px;
-    border-radius: 10px; 
-    overflow: hidden; 
-   float: left;
-  margin-right: 1em;
-}
-  
+<style>  
  .container {
     text-align: justify; /* Justify text within this container */
  }
