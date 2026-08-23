@@ -19,14 +19,15 @@ redirect_from:
     text-align: justify; /* Justify text within this container */
  }
 </style>
+
 ### Speckle Contrast Optical Spectroscopy
 <div class="video-mask">
 <video width="350" controls autoplay muted loop>
         <source src="../images/video_moving_speckles.mp4" type="video/mp4">
 </video><br>
- <font size="3">  <em>Example of dynamical speckle patterns generated from a rotating diffuser with increasing speed.</em></font>
+<font size="3">  <em>Example of dynamical speckle patterns generated from a rotating diffuser with increasing speed.</em></font>
 </div>
-<font size="3"> <div class="container"> Speckle Contrast Optical Spectroscopy (SCOS) is a non-invasive optical technique that measures temporal fluctuations in speckle patterns formed by coherent light scattered from biological tissue. By analyzing changes in speckle contrast from sepckle patterns recorded over time by a camera, SCOS provides information about blood flow dynamics and tissue perfusion at microvascular scales. In my lab, we develop and optimize SCOS systems to non-invasively measure cerebral blood flow and volume in tissues such as the scalp, skull, or brain. Our long-term aim is to design a SCOS useful for medical application such as the prediction of having a stroke or the diagnosis of a brain injury. <br><br></div></font>
+<font size="3"> <div class="container"> Speckle Contrast Optical Spectroscopy (SCOS) is a non-invasive optical technique that measures temporal fluctuations in speckle patterns formed by coherent light scattered from biological tissue. By analyzing changes in speckle contrast from sepckle patterns recorded over time by a camera, SCOS provides information about blood flow dynamics and tissue perfusion at microvascular scales. In my lab, we develop and optimize SCOS systems to non-invasively measure cerebral blood flow and volume in tissues such as the scalp, skull, or brain. Our long-term aim is to design a SCOS useful for medical application such as the prediction of having a stroke or the diagnosis of a brain injury.</div></font><br><br><br><br>
 
 ### Chicken egg's blood vessel imaging 
 <div class="video-mask">
