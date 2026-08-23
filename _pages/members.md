@@ -37,7 +37,8 @@ border-radius: 15px;
 
 
 ## Principal Investigator
-<img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:145px;height:135px;" align="left"><font size="4"><b>Prof. Simon Mahler </b>
+<img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:145px;height:135px;" align="left"><font size="4">
+<b>Dr. Simon Mahler<b><br>
   Assistant Professor<br>
   Department of Biomedical Engineering<br>
   Office: McLean Hall, Room 303<br>
