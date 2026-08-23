@@ -6,7 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I am Simon Mahler, Assistant Professor in the <a href="https://www.stevens.edu/profile/smahler" target="_blank">Department of Biomedical Engineering</a>, at the Stevens Institute of Technology (New Jersey, USA). My Speckle Imaging Lab at Stevens concentrates on the intersection of bio-imaging and optics, with focus on how light interacts with biological samples (biophotonics). Our goal is to develop innovative (non-invasive) imaging techniques to visualize dynamic biological processes, such as blood dynamics with applications ranging from neurological diseases to embryonic development. For that, we are using laser speckle imaging, a method that analyze temporal and spatial fluctuations in laser speckle patterns. 
+<style>
+.video-mask{
+    width: 350px;
+    border-radius: 10px; 
+    overflow: hidden; 
+   float: left;
+  margin-right: 1em;
+}
+  
+ .container {
+    text-align: justify; /* Justify text within this container */
+ }
+</style>
+
+<div class="container"> I am Simon Mahler, Assistant Professor in the <a href="https://www.stevens.edu/profile/smahler" target="_blank">Department of Biomedical Engineering</a>, at the <span style="color: darkred;">Stevens Institute of Technology, New Jersey, USA</span>. My Speckle Imaging Lab at Stevens concentrates on the intersection of bio-imaging and optics, with focus on how light interacts with biological samples (biophotonics). Our goal is to develop innovative (non-invasive) imaging techniques to visualize dynamic biological processes, such as blood dynamics with applications ranging from neurological diseases to embryonic development. For that, we are using laser speckle imaging, a method that analyze temporal and spatial fluctuations in laser speckle patterns. 
 
 If you are interested in further details of any of my work or just want to connect, feel free to contact me!
 
@@ -14,7 +28,7 @@ Education and Experience:
 - 2021-2025: Postdoctoral research associate at California Institute of Technology (Caltech) in the <a href="https://biophot.caltech.edu/" target="_blank">Biophotonics Lab</a> of Professor Changhuei Yang.
 - 2017-2021: PhD studies at the Weizmann Institute of Science in the <a href="https://www.weizmann.ac.il/complex/NirDavidson/research-activities/coupled-lasers" target="_blank">Coupled Lasers Lab</a> of Professors Nir Davidson and Asher A. Friesem.
 - 2015-2017: Master of Science in <a href="https://physics-complex-systems.fr/en/" target="_blank">Physics of Complex System </a> from the Univeristy Paris-Sud (Paris-Saclay). 
--  🇫🇷 Born and raised in Marseille, France, where my family still lives, it remains home.
+-  🇫🇷 Born and raised in Marseille, France, where my family still lives, it remains home.</div>
 
 News
 ======
