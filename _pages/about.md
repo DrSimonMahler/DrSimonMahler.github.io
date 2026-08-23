@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am Simon Mahler (Marseille, France), assistant professor in the <a href="https://www.stevens.edu/profile/smahler" target="_blank">Department of Biomedical Engineering</a>, Stevens Institute of Technology (New Jersey, USA). Before that, I was a postdoctoral scholar research associate at California Institute of Technology (Caltech, 2021-2025),  <a href="https://biophot.caltech.edu/" target="_blank">Biophotonics Lab</a> of Professor Changhuei Yang. I did my PhD (2017-2021) at the Weizmann Institute of Science, in the <a href="https://www.weizmann.ac.il/complex/NirDavidson/research-activities/coupled-lasers" target="_blank">Coupled Lasers Lab</a> of Professors Nir Davidson and Asher A. Friesem. I obtained my Master (2015-2017) in <a href="https://physics-complex-systems.fr/en/" target="_blank">Physics of Complex System </a> from the Univeristy Paris-Sud (Paris-Saclay). 
+I am Simon Mahler, assistant professor in the <a href="https://www.stevens.edu/profile/smahler" target="_blank">Department of Biomedical Engineering</a>, at the Stevens Institute of Technology (New Jersey, USA). Before that, I was a postdoctoral scholar research associate at California Institute of Technology (Caltech, 2021-2025),  <a href="https://biophot.caltech.edu/" target="_blank">Biophotonics Lab</a> of Professor Changhuei Yang. I did my PhD (2017-2021) at the Weizmann Institute of Science, in the <a href="https://www.weizmann.ac.il/complex/NirDavidson/research-activities/coupled-lasers" target="_blank">Coupled Lasers Lab</a> of Professors Nir Davidson and Asher A. Friesem. I obtained my Master (2015-2017) in <a href="https://physics-complex-systems.fr/en/" target="_blank">Physics of Complex System </a> from the Univeristy Paris-Sud (Paris-Saclay). I was born and grew-up in Marseille, France, my home.
 
-My speckle imaging lab at Stevens concentrates on the intersection of bio-imaging and optics, with focus on how light interacts with biological samples (biophotonics) and interests in engineering, device design, the integration of artificial intelligence, the development of novel light sources, and translational research. Our goal is to develop innovative imaging techniques to visualize dynamic biological processes, such as blood dynamics with applications ranging from neurological diseases to embryonic development. For that, we are using laser speckle imaging. 
+My Speckle Imaging Lab at Stevens concentrates on the intersection of bio-imaging and optics, with focus on how light interacts with biological samples (biophotonics) and interests in engineering, device design, the integration of artificial intelligence, the development of novel light sources, and translational research. Our goal is to develop innovative imaging techniques to visualize dynamic biological processes, such as blood dynamics with applications ranging from neurological diseases to embryonic development. For that, we are using laser speckle imaging. 
 
 If you are interested in further details of any of my work or just want to connect, feel free to contact me!
 
 News
 ======
+<p><u>August 2026</u>: check-out our latest non-invasive longitudinal video of chick embryonic blood vessel development form day 0 to day 9 of incubation (~42% of gestation time):
+
+
+
 <p><u>January 2026</u>: I had a great time attending <strong>SPIE Photonics West 2026</strong> international conference in optics and photonics. The Biomedical Optics (BIOS) symposium continues to be an incredible forum for sharing the most recent research, inspiring discussions, and welcoming connections/collaborations. I was honored to deliver a large talk in the <strong>Neurotechnologies</strong> plenary session, where I presented our latest work on advanced optical methods for brain imaging.<br>
 <img src="../images/Mahler_talk_Neurotech_2026.jpeg" alt="picture_talk_neurotech" class="roundrect" style="width:705px;height:245px;" align="middle"><br> 
 👉 <a href="https://www.linkedin.com/posts/spie_neurophotonics-photonicswest-activity-7418889971337646081-kqsf?utm_source=share&utm_medium=member_desktop&rcm=ACoAABuqUTEBgjKSbzdXou7dlfHxv6CuI2Gma2w" target="_blank">
