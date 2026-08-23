@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Simon Mahler, Assistant Professor in the <a href="https://www.stevens.edu/profile/smahler" target="_blank">Department of Biomedical Engineering</a>, at the Stevens Institute of Technology (New Jersey, USA). I did my postdoctoral research at the California Institute of Technology (Caltech, 2021-2025),  in the <a href="https://biophot.caltech.edu/" target="_blank">Biophotonics Lab</a> of Professor Changhuei Yang. I did my PhD studies (2017-2021) at the Weizmann Institute of Science, in the <a href="https://www.weizmann.ac.il/complex/NirDavidson/research-activities/coupled-lasers" target="_blank">Coupled Lasers Lab</a> of Professors Nir Davidson and Asher A. Friesem. I did my Master (2015-2017) in <a href="https://physics-complex-systems.fr/en/" target="_blank">Physics of Complex System </a> from the Univeristy Paris-Sud (Paris-Saclay). I was born and grew-up in Marseille, France, my home.
+<font size="4"> I am Simon Mahler, Assistant Professor in the <a href="https://www.stevens.edu/profile/smahler" target="_blank">Department of Biomedical Engineering</a>, at the Stevens Institute of Technology (New Jersey, USA). I did my postdoctoral research at the California Institute of Technology (Caltech, 2021-2025),  in the <a href="https://biophot.caltech.edu/" target="_blank">Biophotonics Lab</a> of Professor Changhuei Yang. I did my PhD studies (2017-2021) at the Weizmann Institute of Science, in the <a href="https://www.weizmann.ac.il/complex/NirDavidson/research-activities/coupled-lasers" target="_blank">Coupled Lasers Lab</a> of Professors Nir Davidson and Asher A. Friesem. I did my Master (2015-2017) in <a href="https://physics-complex-systems.fr/en/" target="_blank">Physics of Complex System </a> from the Univeristy Paris-Sud (Paris-Saclay). I was born and grew-up in Marseille, France, my home. </font>
 
-My Speckle Imaging Lab at Stevens concentrates on the intersection of bio-imaging and optics, with focus on how light interacts with biological samples (biophotonics). Our goal is to develop innovative (non-invasive) imaging techniques to visualize dynamic biological processes, such as blood dynamics with applications ranging from neurological diseases to embryonic development. For that, we are using laser speckle imaging, a method that analyze temporal and spatial fluctuations in laser speckle patterns. 
+<font size="4"> My Speckle Imaging Lab at Stevens concentrates on the intersection of bio-imaging and optics, with focus on how light interacts with biological samples (biophotonics). Our goal is to develop innovative (non-invasive) imaging techniques to visualize dynamic biological processes, such as blood dynamics with applications ranging from neurological diseases to embryonic development. For that, we are using laser speckle imaging, a method that analyze temporal and spatial fluctuations in laser speckle patterns. </font>
 
-If you are interested in further details of any of my work or just want to connect, feel free to contact me!
+<font size="4"> If you are interested in further details of any of my work or just want to connect, feel free to contact me!</font>
 
 News
 ======
@@ -20,7 +20,7 @@ News
         <source src="../images/LG_egg_video.mp4" type="video/mp4">
 </video>
 </div>
-Video link: <a href="https://drive.google.com/drive/folders/1Am7npE9HqNHRRoXGeNldNjAVzrCEouOz?usp=sharing" target="_blank">Here</a><br><br></p>
+Video link: <a href="https://drive.google.com/drive/folders/1Am7npE9HqNHRRoXGeNldNjAVzrCEouOz?usp=sharing" target="_blank">here</a><br><br></p>
 
 <p><u>January 2026</u>: I had a great time attending <strong>SPIE Photonics West 2026</strong> international conference in optics and photonics. The Biomedical Optics (BIOS) symposium continues to be an incredible forum for sharing the most recent research, inspiring discussions, and welcoming connections/collaborations. I was honored to deliver a large talk in the <strong>Neurotechnologies</strong> plenary session, where I presented our latest work on advanced optical methods for brain imaging.<br>
 <img src="../images/Mahler_talk_Neurotech_2026.jpeg" alt="picture_talk_neurotech" class="roundrect" style="width:705px;height:245px;" align="middle"><br> 
