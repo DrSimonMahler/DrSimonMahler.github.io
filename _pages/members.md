@@ -32,7 +32,7 @@ border-radius: 15px;
 </style>
 
 ## Group Picture (Aug-2025)
-<img src="../images/Labo_photo_group_20260810_121449.jpg" alt="Group_picture_Aug_2026" class="roundrect" style="width:305px;height:305px;" align="left">
+<img src="../images/Labo_photo_group_20260810_121449.jpg" alt="Group_picture_Aug_2026" class="roundrect" style="width:458px;height:305px;" align="left">
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
@@ -53,7 +53,7 @@ border-radius: 15px;
 
 <img src="../images/Ilyes_Lamssalak.jpg" alt="picture_Ilyes_Lamssalak" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Ilyes Lamssalak</b><br> 
   PhD Student<br> 
-  Dual-PhD with Ecole Centrale de Nantes (Dr. Mira Rizkallah and Dr. Said Moussaoui) <br> 
+  Dual-PhD with Ecole Centrale de Nantes (Dr. M Rizkallah & Dr. S.Moussaoui) <br> 
   Labs: McLean Hall 304<br>
   Email: <a href="mailto:ilamssal@stevens.edu" target="_blank">ilamssal@stevens.edu</a><br>
 
