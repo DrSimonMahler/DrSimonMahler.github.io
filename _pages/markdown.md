@@ -49,7 +49,7 @@ redirect_from:
 #### Sorted from most recent to oldest
 
 <img src="../images/31_LG_egg_paper.jpg" alt="31_LG_egg_paper" style="width:135px;height:135px;" align="left"><font size="4"> 31 – <b> Longitudinal, Non-Invasive Imaging of the Developing Chick Heart, Vasculature, and Chorioallantoic Membrane (CAM).</b></font> <br><font size="3"><span style="color: #8f8a85;"> 
-Z. Jin, S. Kakkar, D. Chenemilla, C. Readhead, M. Bronner, </span> S. Mahler, <br> <font size="3" style="font-family: 'Font', Calibri;"> Under revew (2026)  <a href="" target="_blank">(article pre-print)</a></font> <br><br>
+Z. Jin, S. Kakkar, D. Chenemilla, C. Readhead, M. Bronner, </span> S. Mahler, <br> <font size="3" style="font-family: 'Font', Calibri;"> Under review (2026)  <a href="" target="_blank">(article pre-print)</a></font> <br><br>
 
 <img src="../images/30_Rat_SCOS_brain_CBV_injection.jpg" alt="30_Rat_SCOS_brain_CBV_injection" style="width:135px;height:135px;" align="left"><font size="4"> 30 – <b> Noninvasive monitoring of rat brain blood volume during intracerebral injection with SCOS.</b></font> <br><font size="3"><span style="color: #8f8a85;"> M. Fernandes, Y.X. Huang, I. Xu, C. N. Saigua, J. Li, </span> S. Mahler. <br> <font size="3" style="font-family: 'Font', Calibri;"> Opt. Continuum 5, 2745-2757 (2026)  <a href="https://doi.org/10.1364/OPTCON.611123" target="_blank">(article link)</a></font> <br><br>
 
