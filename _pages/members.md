@@ -53,9 +53,9 @@ border-radius: 15px;
 
 <img src="../images/Ilyes_Lamssalak.jpg" alt="picture_Ilyes_Lamssalak" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"><b>Ilyes Lamssalak</b><br> 
   PhD Student<br> 
-  Dual-PhD program with Ecole Centrale de Nantes<br> 
-  Labs: McLean Hall 304 & 305<br>
-  Email: <a href="mailto:mfernand1@stevens.edu" target="_blank">mfernand1@stevens.edu</a><br>
+  Dual-PhD with Ecole Centrale de Nantes (Dr. Mira Rizkallah and Dr. Said Moussaoui) <br> 
+  Labs: McLean Hall 304<br>
+  Email: <a href="mailto:ilamssal@stevens.edu" target="_blank">ilamssal@stevens.edu</a><br>
 
 ## Graduate Students
   <br><img src="../images/Cesar_Noguera.jpg" alt="picture_Cesar_Noguera.jpg" class="roundrect" style="width:135px;height:135px;" align="left"><font size="4"> 
