@@ -8,7 +8,7 @@ redirect_from:
 ---
 <style>
 .video-mask{
-    width: 350px;
+    width: 315px;
     border-radius: 10px; 
     overflow: hidden; 
    float: left;
