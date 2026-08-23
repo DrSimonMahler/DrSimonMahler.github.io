@@ -8,7 +8,7 @@ redirect_from:
 ---
 <style>
 .video-mask{
-    width: 385px;
+    width: 365px;
     border-radius: 10px; 
     overflow: hidden; 
    float: left;
@@ -22,7 +22,7 @@ redirect_from:
 
 ### Speckle Contrast Optical Spectroscopy
 <div class="video-mask">
-<video width="385" controls autoplay muted loop>
+<video width="365" controls autoplay muted loop>
         <source src="../images/video_moving_speckles.mp4" type="video/mp4">
 </video><br>
 <font size="3">  <em>Example of dynamical speckle patterns generated from a rotating diffuser with increasing speed.</em></font>
@@ -31,7 +31,7 @@ redirect_from:
 
 ### Chicken egg's blood vessel imaging 
 <div class="video-mask">
-<video width="385" controls autoplay muted loop>
+<video width="365" controls autoplay muted loop>
         <source src="../images/egg_video.mp4" type="video/mp4">
 </video><br>
 <font size="3"><em> Typical LSCI-recorded blood flow of a chick embryo. </em></font>
