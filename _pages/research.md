@@ -22,21 +22,21 @@ redirect_from:
 
 ### Speckle Contrast Optical Spectroscopy
 <div class="video-mask">
-<video width="400" controls autoplay muted loop>
+<video width="350" controls autoplay muted loop>
         <source src="../images/video_moving_speckles.mp4" type="video/mp4">
 </video><br>
 <font size="3">  <em>Example of dynamical speckle patterns generated from a rotating diffuser with increasing speed.</em></font>
 </div>
-<font size="3"> <div class="container"> Speckle Contrast Optical Spectroscopy (SCOS) is a non-invasive optical technique that measures temporal fluctuations in speckle patterns formed by coherent light scattered from biological tissue. By analyzing changes in speckle contrast from sepckle patterns recorded over time by a camera, SCOS provides information about blood flow dynamics and tissue perfusion at microvascular scales. In my lab, we develop and optimize SCOS systems to non-invasively measure cerebral blood flow and volume in tissues such as the scalp, skull, or brain. Our long-term aim is to design a SCOS useful for medical application such as the prediction of having a stroke or the diagnosis of a brain injury.</div></font><br><br><br><br>
+<font size="3"> <div class="container"> Speckle Contrast Optical Spectroscopy (SCOS) is a non-invasive optical technique that measures temporal fluctuations in speckle patterns formed by coherent light scattered from biological tissue. By analyzing changes in speckle contrast from sepckle patterns recorded over time by a camera, SCOS provides information about blood flow dynamics and tissue perfusion at microvascular scales. In my lab, we develop and optimize SCOS systems to non-invasively measure cerebral blood flow and volume in tissues such as the scalp, skull, or brain. Our long-term aim is to design a SCOS useful for medical application such as the prediction of having a stroke or the diagnosis of a brain injury.</div></font><br><br><br>
 
 ### Chicken egg's blood vessel imaging 
 <div class="video-mask">
-<video width="400" controls autoplay muted loop>
+<video width="350" controls autoplay muted loop>
         <source src="../images/egg_video.mp4" type="video/mp4">
 </video><br>
 <font size="3"><em> Typical LSCI-recorded blood flow of a chick embryo. </em></font>
 </div>
-<font size="3"><div class="container"> We adapted speckle imaging optical techniques to visualize developing chicken embryos, as shown in the video. Using laser speckle contrast imaging (LSCI), we were able to non-invasively monitor the dynamic blood flow through vessels as small as 70 µm in near real-time. Using this system, we are investigating a range of biological applications including cardiac angiogenesis, embryo development, non-invasive sexing, and drugs testing on vascular development.</div></font><br><br><br><br>
+<font size="3"><div class="container"> We adapted speckle imaging optical techniques to visualize developing chicken embryos, as shown in the video. Using laser speckle contrast imaging (LSCI), we were able to non-invasively monitor the dynamic blood flow through vessels as small as 70 µm in near real-time. Using this system, we are investigating a range of biological applications including cardiac angiogenesis, embryo development, non-invasive sexing, and drugs testing on vascular development.</div></font><br><br><br> 
 
 ### Blood flow and blood volume measuring speckle devices 
 <img src="../images/speckles_on_fingers.JPG" alt="speckles_on_fingers" style="width:150px;height:185px;" align="left" /> 
