@@ -22,6 +22,7 @@ redirect_from:
 
 <div class="container"> I am Simon Mahler, Assistant Professor in the <a href="https://www.stevens.edu/profile/smahler" target="_blank">Department of Biomedical Engineering</a>, at the <span style="color: darkred;">Stevens Institute of Technology, New Jersey, USA</span>. My Speckle Imaging Lab at Stevens concentrates on the intersection of bio-imaging and optics, with focus on how light interacts with biological samples (biophotonics). Our goal is to develop innovative (non-invasive) imaging techniques to visualize dynamic biological processes, such as blood dynamics with applications ranging from neurological diseases to embryonic development. For that, we are using laser speckle imaging, a method that analyze temporal and spatial fluctuations in laser speckle patterns.</div>
 
+
 If you are interested in further details of any of my work or just want to connect, feel free to contact me!
 
 Education and Experience: 
