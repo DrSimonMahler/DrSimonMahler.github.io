@@ -30,11 +30,9 @@ border-radius: 15px;
 }
 
 </style>
-
 ## Group Picture (Aug-2026)
 <img src="../images/Labo_photo_group_20260810_121449.jpg" alt="Group_picture_Aug_2026" class="roundrect" style="width:532px;height:355px;" align="left">
-<br><br><br><br><br><br><br><br><br><br>
-
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Principal Investigator
 <img src="../images/Headshot_Simon_Mahler.png" alt="picture_Simon_Mahler" class="roundrect" style="width:145px;height:135px;" align="left"><font size="4">
